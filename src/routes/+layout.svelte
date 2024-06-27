@@ -5,7 +5,10 @@
 
 	afterNavigate(() => {
 		// @ts-ignore
-		window.initLytebox();
+		if (window.initLytebox) {
+			// @ts-ignore
+			window.initLytebox();
+		}
 	});
 
 	onMount(() => {
