@@ -27,7 +27,7 @@
 			width="600"
 			height="400"
 			src="https://www.youtube.com/embed/-gkTE0dGuPU?si=7Ey4LSw0LCpJ6Ht-"
-			title="YouTube video player"
+			title="Nasłuch w parku"
 			frameborder="0"
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 			referrerpolicy="strict-origin-when-cross-origin"
@@ -75,7 +75,7 @@
 			src="https://www.youtube.com/embed/w9oQxmmpjeE"
 			width="600"
 			height="400"
-			title="YouTube video player"
+			title="Nasłuch w ogrodzie"
 			frameborder="0"
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 			allowfullscreen
@@ -89,7 +89,7 @@
 		</p>
 		<h2>Interaktywna mapa nadajników długofalowych.</h2>
 		<iframe
-			title=""
+			title="Mapa nadajników LW"
 			src="https://www.google.com/maps/d/u/0/embed?mid=1U_179Er7_YnKL9ccouUEHz8LI9KkFk8&amp;ehbc=2E312F"
 			width="800"
 			height="600"
@@ -888,7 +888,7 @@
 			src="https://www.youtube-nocookie.com/embed/Mnwpqy5r0Vg"
 			width="600"
 			height="400"
-			title="YouTube video player"
+			title="Porównanie radii"
 			frameborder="0"
 			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 			allowfullscreen

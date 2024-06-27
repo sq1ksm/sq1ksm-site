@@ -1,8 +1,7 @@
 <div class="lead">
 	<!-- tresc-->
 	<article>
-		<h2>STRONA W BUDOWIE</h2>
-		<p>Strona w budowie.</p>
+		<h1>Wszystk to co nie znalazło się gdzie indziej</h1>
 		<a href="/zdjecia/inne/t1_elecraft_pl.pdf">
 			<img
 				height="256"
@@ -14,10 +13,13 @@
 			/></a
 		>
 		<p>
-			Tłumaczenie polskie instrukcji świetnej skrzynki antenowej QRP - T1 firmy Elecaft. Pozwoliłem
-			sobie przetłumaczyć instrukcję z języka angielskiego na polski, by w pełni i wygodnie
-			korzystać z wszystkich funkcji skrzynki antenowej. t1_elecraft_pl.pdf Adobe Acrobat Document
-			382.1 KB
+			Do pobrania:<br />
+			<br />
+			Tłumaczenie polskie instrukcji świetnej skrzynki antenowej QRP - T1 firmy Elecaft.<br />
+			Pozwoliłem sobie przetłumaczyć instrukcję z języka angielskiego na polski, by w pełni i wygodnie
+			korzystać z wszystkich funkcji skrzynki antenowej.<br /> Plik:<br />
+			t1_elecraft_pl.pdf Adobe Acrobat Document 382.1KB
+			<br /><br /><br /><br /><br /><br /><br /><br />
 		</p>
 		<hr />
 		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br

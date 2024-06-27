@@ -4,8 +4,8 @@
 		<h1>Projekt Tytus Romek i A'Tomek</h1>
 
 		<img
-			width="400"
-			height="249"
+			width="262"
+			height="163"
 			src="/zdjecia/tytus/poczatek.webp"
 			alt="Tytus zaprasza"
 			title="Tytus zaprasza"

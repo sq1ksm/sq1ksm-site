@@ -6,7 +6,8 @@
 			Lokalizacje powstały na potrzeby komputera Jornada 720/728. <br />
 			Większość plików umieszczona była pierwotnie na portalu jornada.m01.pl , jednak strona już została
 			zamknięta przez Mikołaja, a moje prace mogą się jeszcze komuś przydać... Poniżej screny z programów
-			i opisy.
+			i opisy. <br />
+			Pliki wkrótce (mogę wysać emailem)!
 		</p>
 		<h2>Adobe Portable Reader</h2>
 		<img

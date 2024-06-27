@@ -1,6 +1,6 @@
 <div class="lead">
 	<!-- tresc-->
-	<h2>Parki SPFF</h2>
+	<h1>Parki SPFF</h1>
 	<p>
 		Poniżej kilka kart QSL które wysyłaliśmy potwierdzając łączność z nami z danego miejsca.<br />
 		Karty są ekologiczne!
@@ -28,7 +28,7 @@
 		<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
 	</div>
 	<hr />
-	<h3>Parki z których nadawaliśmy</h3>
+	<h1>Parki z których nadawaliśmy</h1>
 
 	28.08.2011 SPFF105 09.00-17.00 UTC (40/80m SSB)
 	<br /><br />

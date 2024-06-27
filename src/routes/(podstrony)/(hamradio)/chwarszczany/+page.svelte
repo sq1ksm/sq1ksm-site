@@ -1,7 +1,7 @@
 <div class="lead">
 	<!-- tresc-->
 	<article>
-		<h3>Krótkofalarscy Templariusze</h3>
+		<h1>Krótkofalarscy Templariusze</h1>
 		<a href="/zdjecia/chwarszczany/sn0st.webp" rel="lytebox[vacation]"
 			><img
 				height="191"
@@ -69,7 +69,7 @@
 		</div>
 		<div class="podpis">Sławek SQ1KSM (08.08.2009)</div>
 		<iframe
-			title=""
+			title="Film SP3SMX"
 			width="600"
 			height="450"
 			src="https://www.youtube.com/embed/_Yx6o9qzQTM"

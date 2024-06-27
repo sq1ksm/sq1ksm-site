@@ -1,9 +1,9 @@
 <div class="lead">
 	<!-- tresc-->
 	<article>
-		<h3>SN0LOT</h3>
+		<h1>SN0LOT</h1>
 
-		<h3>2013rok</h3>
+		<h2>2013rok</h2>
 		<img
 			width="204"
 			height="197"
@@ -37,7 +37,7 @@
 	</article>
 	<hr />
 	<article>
-		<h3>2012rok</h3>
+		<h2>2012rok</h2>
 		<p>
 			W dniach 01 - 30 lipca 2012 roku pracowali pod okolicznościowym znakiem SN0LOT dla uczczenia
 			wyczynu dwóch litewskich pilotów: Steponasa Dariusa i Stasysa Girenasa, którzy 15 lipca 1933
@@ -77,7 +77,7 @@
 	</article>
 	<hr />
 	<article>
-		<h3>2011rok</h3>
+		<h2>2011rok</h2>
 		<div style="text-align: center;">
 			<a href="/zdjecia/pszczelnik/2011_01.webp" rel="lyteshow[vacation]" title="SQ1KSM i SQ1NXN"
 				><img src="/zdjecia/pszczelnik/2011_01_m.webp" width="140" height="96" alt="" /></a

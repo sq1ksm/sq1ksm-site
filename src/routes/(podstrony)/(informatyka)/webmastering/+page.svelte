@@ -2,7 +2,7 @@
 	<!-- tresc-->
 	<article>
 		<!-- Tytol-->
-		<h3>Webmastering</h3>
+		<h1>Webmastering</h1>
 		<p>
 			Projektowaniem stron zajmuję się od 2000 roku. Wszystkie moje projekty są realizowane
 			indywidualnie i w większości non profit. Nie jest to moja praca zawodowa, a hobby. Dla tego
@@ -10,7 +10,7 @@
 			niepowtarzalne. <br />
 			Potrzebujesz mojej pomocy, chciałbyś jakąś wyjątkową stronę skontaktuj się ze mną.<br />
 		</p>
-		<h3>Przykładowe strony, które zbudowałem:</h3>
+		<h2>Przykładowe strony, które zbudowałem:</h2>
 		<p>
 			Strona dwujęzyczna ogrodzenia metalowe<br />
 			<img

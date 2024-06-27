@@ -142,7 +142,7 @@
 	<hr />
 	<h2>Spis znanych nam miejscowości Nowej Ameryki:</h2>
 	<iframe
-		title=""
+		title="Mapa Nowej Ameryki"
 		src="https://www.google.com/maps/d/embed?mid=121jTLX7h9eYXJlyr7YeAXDQIFGA&amp;ehbc=2E312F"
 		width="640"
 		height="480"
@@ -274,7 +274,8 @@
 	<hr />
 	<img
 		width="320"
-		src="/zdjecia/ameryka/na_2011.jpg"
+		height="227"
+		src="/zdjecia/ameryka/na_2011.webp"
 		alt="Nowa ameryka"
 		title="Dyplom"
 		style="margin:0px 0px 10px 10px; float:right"

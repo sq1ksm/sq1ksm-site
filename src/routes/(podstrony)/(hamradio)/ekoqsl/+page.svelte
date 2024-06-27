@@ -1,7 +1,7 @@
 <div class="lead">
 	<!-- tresc-->
 	<article>
-		<h2>Ekologiczne karty QSL</h2>
+		<h1>Ekologiczne karty QSL</h1>
 		<a href="/zdjecia/eko/eko_qsl.webp" rel="lytebox[vacation]" title="Mix ekologicznych kart"
 			><img src="/zdjecia/eko/eko_qsl_m.webp" alt="" />
 

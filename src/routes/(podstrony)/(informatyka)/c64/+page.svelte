@@ -1,7 +1,7 @@
 <div class="lead">
 	<!-- tresc-->
 	<article>
-		<h2>Moje stare komputery</h2>
+		<h1>Moje stare komputery</h1>
 		<p>
 			Na zdjęciu mój pierwszy komputer. Niestety nie zachował się pierwotnie ten oryginalny
 			egzemplarz, ale udało mi się nabyć w doskonałym stanie podobny.
@@ -18,7 +18,7 @@
 				/></a
 			>
 		</div>
-		<h4>Tak wygląda ten zacny komputer w 2023 roku.</h4>
+		<h2>Tak wygląda ten zacny komputer w 2023 roku.</h2>
 	</article>
 	<br /><br /><br /><br /><br /><br /><br /><br />
 	<p></p>

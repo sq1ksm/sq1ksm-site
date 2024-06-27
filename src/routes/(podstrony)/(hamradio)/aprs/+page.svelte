@@ -26,7 +26,7 @@
 		</ul>
 		<br />
 		<iframe
-			title=""
+			title="Mapa APRS"
 			src="https://aprs-map.info/sid/36834/time/60%22%20width=%22550%22%20height=%22340%22?center=52.6343,14.7924&amp;zoom=9"
 			width="600"
 			height="400"
@@ -102,7 +102,7 @@
 			src="https://www.youtube.com/embed/5xLdu3SQsjo"
 			frameborder="0"
 			allowfullscreen
-			title=""
+			title="APRS i ICOM280H"
 		>
 		</iframe>
 	</article>

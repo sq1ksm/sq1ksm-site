@@ -1,7 +1,7 @@
 <div class="lead">
 	<!-- tresc-->
 	<article>
-		<h2>Czy potrzebne są dodatkowe filtry w FT817/818?</h2>
+		<h1>Czy potrzebne są dodatkowe filtry w FT817/818?</h1>
 		<p>
 			<left>
 				FT817/FT818 to najmniejszy transceiver pozwalający na pracę w pasmach KF a także UKF emisją
@@ -23,7 +23,7 @@
 			<li>możliwość zainstalowania dodatkowego filtra (np. dla CW SSB);</li>
 			<li>miejsce na wewnętrzny akumulator lub pakiet baterii;</li>
 			<li>-możliwość współpracy urządzenia z komputerem -CAT.</li>
-			<li></li>
+			<li>...</li>
 		</ul>
 		Wady:
 		<ul>
@@ -47,12 +47,12 @@
 			><img alt="" src="/zdjecia/817/filtr_m.webp" />
 		</a>
 		<br />
-		<h3>
+		<h2>
 			Na rysunku widać charakterystykę filtra standartowego i Collins'a. Po zmianie filtra odbiór
 			stał się bardziej luxusowy.
-		</h3>
+		</h2>
 		<p></p>
-		<h2>Zestaw "polowy" do pracy QRP</h2>
+		<h1>Zestaw "polowy" do pracy QRP</h1>
 		Poniżej pokazałem, że można zmieścić w standardowej małej walizce plastikowej cały zestaw do pracy
 		QRP. W zestawie znajduje się:
 		<ul>
@@ -81,7 +81,7 @@
 			><img src="/zdjecia/817/FT817_02_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a href="/zdjecia/817/FT817_03.webp" rel="lyteshow[vacation]" title="Karta QSL"
-			><img src="/zdjecia/817/FT817_03.webp" width="140" height="96" alt="" /></a
+			><img src="/zdjecia/817/FT817_03_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a href="/zdjecia/817/FT817_04.webp" rel="lyteshow[vacation]" title="Karta QSL"
 			><img src="/zdjecia/817/FT817_04_m.webp" width="140" height="96" alt="" /></a

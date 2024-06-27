@@ -1,7 +1,7 @@
 <div class="lead">
 	<!-- tresc-->
 	<article>
-		<h3>Smolnica, praca z młodzieżą</h3>
+		<h1>Smolnica, praca z młodzieżą</h1>
 		<p>
 			Prelekcja 24 02 2010 Łączności Cyfrowe w Krótkofalarstwie.<br />
 			Przebieg: <br />

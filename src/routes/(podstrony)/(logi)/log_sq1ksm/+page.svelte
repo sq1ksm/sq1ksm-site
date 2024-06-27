@@ -13,7 +13,7 @@
 		<p>Nie jest to często uzupełniany log, ale staram się co miesiąc... no dobra co 3 to max.</p>
 		<p>
 			<iframe
-				title=""
+				title="Log SQ1KSM"
 				style="background: rgb(216, 231, 150)"
 				frameborder="3"
 				height="300"
