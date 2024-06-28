@@ -18,7 +18,7 @@ export const routes = [
             { name: "Parki SPFF", href: "/spff" },
             { name: "APRS", href: "/aprs" },
             { name: "Eko-QSL", href: "/ekoqsl" },
-            { name: "QRP FT-817", href: "/ft817" }
+            { name: "QRP FT-817 / FT-818", href: "/ft817" }
         ]
     },
     {
@@ -41,12 +41,12 @@ export const routes = [
             { name: "Webmastering", href: "/webmastering" },
             { name: "Piotruś", href: "/piotrus" },
             { name: "Windows Mobile", href: "/wm" },
-            { name: "Stare Komputery", href: "/c64" }
+            { name: "Stare komputery", href: "/c64" }
         ]
     }, {
         name: "SWL & SAT",
         sub: [
-            { name: "SFale długie i średnie", href: "/dlugie" },
+            { name: "Fale długie i średnie", href: "/dlugie" },
             { name: "Odbiór satelitarny", href: "/sat" }
         ]
     },
