@@ -22,6 +22,9 @@
 </article>
 
 <style>
+	article {
+		padding-top: 1.5rem;
+	}
 	hr {
 		border-color: #666;
 	}
