@@ -30,11 +30,11 @@ function LyteBox() {
 	this.theme = 'grey';	// themes: grey (default), red, green, blue, gold
 	this.hideFlash = true;		// controls whether or not Flash objects should be hidden
 	this.outerBorder = true;		// controls whether to show the outer grey (or theme) border
-	this.resizeSpeed = 8;		// controls the speed of the image resizing (1=slowest and 10=fastest)
+	this.resizeSpeed = 10;		// controls the speed of the image resizing (1=slowest and 10=fastest)
 	this.maxOpacity = 80;		// higher opacity = darker overlay, lower opacity = lighter overlay
 	this.navType = 1;		// 1 = "Prev/Next" buttons on top left and left (default), 2 = "<< prev | next >>" links next to image number
 	this.autoResize = true;		// controls whether or not images should be resized if larger than the browser window dimensions
-	this.doAnimations = true;		// controls whether or not "animate" Lytebox, i.e. resize transition between images, fade in/out effects, etc.
+	this.doAnimations = false;		// controls whether or not "animate" Lytebox, i.e. resize transition between images, fade in/out effects, etc.
 
 	this.borderSize = 12;		// if you adjust the padding in the CSS, you will need to update this variable -- otherwise, leave this alone...
 	/*** End Global Configuration ***/

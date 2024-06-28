@@ -5,6 +5,7 @@
 	import InfoBar from '$lib/InfoBar.svelte';
 	import Logo from '$lib/Logo.svelte';
 	import Footer from '$lib/Footer.svelte';
+	import { preloadFullLytebox } from '$lib/imagePreloader';
 
 	afterNavigate(() => {
 		// @ts-ignore
@@ -12,6 +13,7 @@
 			// @ts-ignore
 			window.initLytebox();
 		}
+		preloadFullLytebox();
 	});
 
 	onMount(() => {
@@ -23,6 +25,7 @@
 				g.classList.add('active');
 			}
 		}
+		preloadFullLytebox();
 	});
 </script>
 

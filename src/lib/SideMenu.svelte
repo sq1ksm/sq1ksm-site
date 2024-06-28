@@ -77,6 +77,7 @@
 	a {
 		display: block;
 		padding: 6px 15px;
+		text-decoration: none;
 	}
 	.main-nav > a {
 		background: linear-gradient(#64676e 0%, #4c4e53 100%);
