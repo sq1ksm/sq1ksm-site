@@ -1,7 +1,8 @@
 <footer>
 	<hr style="width: 65%; border-color: #666;" />
-	© 2004-2024 slawera
+	&nbsp;
 	<div class="socials">
+		© 2004-2024 slawera
 		<a href="https://github.com/sq1ksm/sq1ksm-site" title="github">
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 960" width="20">
 				<path
@@ -35,7 +36,8 @@
 
 <style>
 	footer {
-		text-align: center;
+		min-width: 1000px;
+		max-width: 1500px;
 		font-size: 1em;
 		line-height: 1.3;
 		color: red;
@@ -44,6 +46,6 @@
 	.socials {
 		position: absolute;
 		top: 10px;
-		right: 19vw;
+		right: 18vw;
 	}
 </style>
