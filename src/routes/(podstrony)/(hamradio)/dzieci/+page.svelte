@@ -56,6 +56,7 @@
 		</div>
 		<div class="podpis">Sławek SQ1KSM (15.06.2024)</div>
 	</article>
+	<hr />
 	<article>
 		<h1>2016 Amateur Radio Kids Day w Krześnicy</h1>
 

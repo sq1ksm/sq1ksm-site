@@ -4,7 +4,8 @@
 		<h1>4 PORY ROKU</h1>
 		<p>
 			Nietypowa akcja - stacje okolicznościowe na rozpoczęcie kolejnych pór roku. <br />
-			W akcji brali udział (według klucza: xx - to pory roku - WIOSNA, LATO, JESIEN, ZIMA):<br />
+			W akcji brali udział (według klucza: xx - oznaczają pory roku - WIOSNA, LATO, JESIEN, ZIMA):<br
+			/>
 		</p>
 		<ul>
 			<li>3Z1XX Adrian SQ1NXN</li>
