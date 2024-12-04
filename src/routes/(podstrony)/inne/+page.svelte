@@ -26,10 +26,17 @@
 	</article>
 	<article>
 		<h2>Instrucja obsługi Radia SOKOL</h2>
+<<<<<<< Updated upstream
 		<a href="/zdjecia/inne/sokol_pl.pdf">
 			<img
 				height="136"
 				width="256"
+=======
+		<a href="/zdjecia/inne/sokol_PL.pdf">
+			<img
+				height="256"
+				width="136"
+>>>>>>> Stashed changes
 				src="/zdjecia/inne/sokol.webp"
 				alt=" T1 firmy Elecaft"
 				title="Stacja"
@@ -42,7 +49,10 @@
 			Hi, hi.<br />
 			No cóż rosyjski nie jest językiem wszystkim na razie znanym, więc narodziła się potrzeba przetłumaczenia.
 		</p>
+<<<<<<< Updated upstream
 		<br />
+=======
+>>>>>>> Stashed changes
 		<hr />
 	</article>
 </div>

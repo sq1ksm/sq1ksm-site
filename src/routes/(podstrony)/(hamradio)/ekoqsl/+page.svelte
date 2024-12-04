@@ -22,14 +22,14 @@
 			<li>użytego papieru (nie bielony chemicznie, najlepiej z recyklingu);</li>
 			<li>nadruku (obojętne dla środowiska barwniki i tusze np. sadza/grafit);</li>
 			<li>
-				nie zawierania w składzie folii (tworzyw sztucznych, lakierów, powłok laminujących) i innych
+				nie zawierają w składzie folii (tworzyw sztucznych, lakierów, powłok laminujących) i innych
 				"niebiodegradowalnych" elementów.
 			</li>
 		</ul>
 
 		<p></p>
 		<p>
-			Podoba Ci się w/w pomysł -chętnie podejmę współpracę i użyczę loga (po potwierdzeniu
+			Podoba Ci się ten pomysł - chętnie podejmę współpracę i użyczę loga (po potwierdzeniu
 			spełnienia kryteriów ekologicznej QSL'ki) - kieruj do mnie zapytania na emaila
 			<a href="mailto:slawera@go2.pl">slawera@go2.pl</a>
 		</p>
