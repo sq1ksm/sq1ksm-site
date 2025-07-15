@@ -12,7 +12,7 @@
 			<li>HF1XX Sławek SQ1KSM</li>
 			<li>SN1XX Weronika SQ1KSL</li>
 			<li>3Z3XX Józef SP3SBY</li>
-			<li>HF3XX Marek SP3GVX</li>
+			<li>HF3XX 🕯️ śp.Marek SP3GVX</li>
 			<li>SN3XX Tomasz SP3WVL</li>
 			<li>SN0ZIMA Stanisław SQ3ODX</li>
 			<li>SN5ZIMA Maciek SO5MAX</li>

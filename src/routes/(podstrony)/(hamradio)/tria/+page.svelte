@@ -113,7 +113,7 @@
 			SQ1NXN - Adrian - <a href="http://www.qrz.com/db/hf1atomek">HF1ATOMEK</a><br />
 			SP1JJY - Stefan - <a href="http://www.qrz.com/db/hf1papcio">HF1PAPCIO</a><br />
 			SQ1SNU - Mirek - <a href="http://www.qrz.com/db/hf1talent">HF1TALENT</a><br />
-			SP3GVX - Marek - <a href="http://www.qrz.com/db/hf3tytus">HF3TYTUS</a><br />
+			🕯️ śp. SP3GVX - Marek - <a href="http://www.qrz.com/db/hf3tytus">HF3TYTUS</a><br />
 			SP3WVL - Tomasz - <a href="http://www.qrz.com/db/hf3atomek">HF3ATOMEK</a><br />
 			SP3SBY - Józef - <a href="http://www.qrz.com/db/hf3papcio">HF3PAPCIO</a><br />
 			SQ3ODX - Staszek - <a href="http://www.qrz.com/db/hf3romek">HF3ROMEK</a><br />
@@ -172,7 +172,7 @@
 			SQ1NXN - Adrian - <a href="http://www.qrz.com/db/hf1atomek">HF1ATOMEK</a><br />
 			SP1JJY - Stefan - <a href="http://www.qrz.com/db/hf1papcio">HF1PAPCIO</a><br />
 			SQ1SNU - Mirek - <a href="http://www.qrz.com/db/hf1talent">HF1TALENT</a><br />
-			SP3GVX - Marek - <a href="http://www.qrz.com/db/hf3tytus">HF3TYTUS</a><br />
+			🕯️ śp.SP3GVX - Marek - <a href="http://www.qrz.com/db/hf3tytus">HF3TYTUS</a><br />
 			SP3WVL - Tomasz - <a href="http://www.qrz.com/db/hf3atomek">HF3ATOMEK</a><br />
 			SP3SBY - Józef - <a href="http://www.qrz.com/db/hf3papcio">HF3PAPCIO</a><br />
 			SQ3ODX - Staszek - <a href="http://www.qrz.com/db/hf3romek">HF3ROMEK</a><br />

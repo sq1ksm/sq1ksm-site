@@ -1,0 +1,4 @@
+BUILD.cmd uruchamia budowanie strony
+
+
+DEV.cmd robi serwer

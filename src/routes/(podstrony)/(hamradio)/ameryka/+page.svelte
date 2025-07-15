@@ -44,7 +44,7 @@
 			ciekawym rejonie. Dlatego też zapraszamy okolicznych kolegów do spotkania w Nowej Ameryce czy
 			to osobiście czy poprzez "fale radiowe".
 		</p>
-		<div class="podpis">Marek SP3GVX (2009r.)</div>
+		<div class="podpis">🕯️ śp.Marek SP3GVX (2009r.)</div>
 
 		<h2>Zdjęcia z pierwszej wyprawy w 2010 roku.</h2>
 

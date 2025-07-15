@@ -2,7 +2,7 @@
 	<hr style="width: 65%; border-color: #666;" />
 	&nbsp;
 	<div class="socials">
-		© 2004-2024 slawera
+		© 2004-2025 slawera
 		<a href="https://github.com/sq1ksm/sq1ksm-site" title="github">
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 960" width="20">
 				<path

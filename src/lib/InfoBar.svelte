@@ -1,6 +1,10 @@
 <article>
 	<b> Informacje:</b>
 	<hr />
+	15.07.2025<br />
+	Atlas 210X -instrukcja<br />
+	(menu - Inne)
+	<hr />
 	27.06.2024<br />
 	Reorganizacja strony
 	<hr />

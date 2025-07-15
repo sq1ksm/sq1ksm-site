@@ -20,6 +20,8 @@
 			<li>Icom IC-F210 na UKF</li>
 			<li>Icom IC-208I</li>
 			<li>Yaesu FT1D na VHF/UKF</li>
+
+			<li>uSDX Micron v1.5 KF (Praca ternenowa)</li>
 			<li>ICOM IC-F110 na VHF - w aucie SQ1KSM</li>
 			<li>CRT SPACE-V na VHF - w aucie SQ1KSL</li>
 		</ul>
@@ -34,8 +36,9 @@
 			</li>
 			<li>Diamond X510 około 18m nad poziom gruntu</li>
 			<li>Difona FOX-727 - do pracy w terenie</li>
-			<li>Diamond DP-NR2C - w aucie SQ1KSM</li>
-			<li>Nagoya NL-770R - w aucie SQ1KSL</li>
+			<li>Diamond DP-NR2C - w aucie SQ1KSL</li>
+			<li>Nagoya NL-770R - zapasowa</li>
+			<li>I inne, coś tam zawsze się robi ;-)...</li>
 		</ul>
 
 		<h2>Zasilanie:</h2>
