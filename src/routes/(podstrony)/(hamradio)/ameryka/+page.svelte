@@ -30,6 +30,7 @@
 			/>
 		</p>
 		<div style="text-align: center;">
+			a
 			<img
 				src="/zdjecia/ameryka/mapa.webp"
 				alt="Nowa ameryka"
@@ -47,7 +48,6 @@
 		<div class="podpis">🕯️ śp.Marek SP3GVX (2009r.)</div>
 
 		<h2>Zdjęcia z pierwszej wyprawy w 2010 roku.</h2>
-
 		<hr />
 		<h1>Wyprawa do Nowej Ameryki 2010 -relacja.</h1>
 		<p>
@@ -56,7 +56,7 @@
 			podzieliliśmy się na dwie grupy: Słubice- Marek SQ200CHOPIN (SP3GVX), Józef SP3SBY,
 			TomekSP3WVL. Koledzy pracowali również pod znakiem klubowym SP3PJW oraz pozostali czyli Adrian
 			SQ1NXN,DarekSP1-14025 (aktualnie SQ1NXZ), Jurek SP1FMW, Weronika SQ1KSL, Angelika, Paweł z
-			synemBartkiem i mojaskromna osoba SQ1KSM wraz z Piotrusiem. Koledzy ze Słubic pojechali do
+			Synem Bartkiem i moja skromna osoba SQ1KSM wraz z Piotrusiem. Koledzy ze Słubic pojechali do
 			Sumatry (aktualnie-Sumiec) a my do Saratogi (aktualnie-Zaszczytowo). Rozłożyliśmy sprzęt:
 			antena pełny dipol na 80,radio FT450, akumulator i zaczęły się pierwsze łączności.
 			Postanowiliśmy również rozłożyć się na UKF. Adrian i Darek mieli przygotowany zestaw do
@@ -71,7 +71,7 @@
 			Dziękujemy wszystkim biorącym udział w akcji oraz wszystkim, którzy łączyli się z nami na falach
 			eteru.<br />
 			Dziękuję również za zgłoszenie emaile z logiem łączności na Dyplom. Napłynęło już kilkanaście,
-			prosimy pozostałych o informację mailem, już niedługo "edyplomy" zostaną przesłane.
+			prosimy pozostałych o informację mailem, już niedługo "e-dyplomy" zostaną przesłane.
 		</p>
 		<div style="text-align: center;">
 			<a
@@ -133,7 +133,7 @@
 			><br />
 
 			<br />
-			<h2>Proszę kliknac na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
+			<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
 		</div>
 		<br />
 		<p></p>

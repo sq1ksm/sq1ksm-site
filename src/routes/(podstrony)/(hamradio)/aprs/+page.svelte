@@ -84,7 +84,7 @@
 			>
 		</div>
 		<p></p>
-		<h2>Proszę kliknac na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
+		<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
 		<p></p>
 		<p>
 			W ramach mojego wolnego czasu "przeprogramowałem" już kilka takich urządzeń. Jedną z ich wad

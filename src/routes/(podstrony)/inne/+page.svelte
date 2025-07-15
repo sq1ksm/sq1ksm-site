@@ -51,10 +51,17 @@
 	</article>
 	<article>
 		<h2>Instrucja obsługi Radia SOKOL</h2>
+<<<<<<< Updated upstream
 		<a href="/zdjecia/inne/sokol_pl.pdf">
 			<img
 				height="136"
 				width="256"
+=======
+		<a href="/zdjecia/inne/sokol_PL.pdf">
+			<img
+				height="256"
+				width="136"
+>>>>>>> Stashed changes
 				src="/zdjecia/inne/sokol.webp"
 				alt=" T1 firmy Elecaft"
 				title="Stacja"
@@ -71,6 +78,10 @@
 			/>
 			sokol_pl.pdf, Adobe Acrobat około bajtów: 1,2 MB
 		</p>
+<<<<<<< Updated upstream
+		<br />
+=======
+>>>>>>> Stashed changes
 		<hr />
 	</article>
 </div>
