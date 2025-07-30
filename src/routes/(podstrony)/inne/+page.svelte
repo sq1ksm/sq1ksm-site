@@ -27,7 +27,7 @@
 	</article>
 	<article>
 		<h2>Instrukcja obsługi TRX Atlas 210x</h2>
-		<a href="/zdjecia/inne/Atlas210X_PL_01.pdf">
+		<a href="/zdjecia/inne/Atlas210X_PL_25.pdf">
 			<img
 				height="185"
 				width="202"
@@ -39,11 +39,13 @@
 		</a>
 		<p>
 			Lipiec 2025<br /><br />
-			Do pobrania przetłumaczona instrukcja obsługi TRX Atlas 210x.<br />
-			Na razie dostępna jest wersja testowa – tłumaczenie w toku.<br />
-			Wymaga poprawek: tabelki w końcowej części, graficzne ułożenie...<br />
-			Atlas210X_PL_01.pdf, Adobe Acrobat Document, ok. 6 MB
-			<br /><br /><br /><br />
+			Do pobrania przetłumaczona na język polski instrukcja obsługi TRX Atlas 210x.<br />
+			Na razie dostępna jest wersja testowa v25 z 30 lipca 2025 <br />– tłumaczenie jeszcze jest w
+			toku.
+			<br /><br />
+			Wymaga poprawek: tabelki i tekst w końcowej części, graficzne ułożenie...<br />
+			Jednak śmiało można już używać! Atlas210X_PL_25.pdf, <br />
+			Adobe Acrobat Document, ok. 10 MB
 		</p>
 		<br />
 		<hr />
@@ -68,7 +70,6 @@
 			Rosyjski nie jest językiem znanym wszystkim, więc pojawiła się potrzeba przetłumaczenia.<br />
 			sokol_pl.pdf, Adobe Acrobat Document, ok. 1,2 MB
 		</p>
-		<br />
 		<hr />
 	</article>
 </div>
