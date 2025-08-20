@@ -3,25 +3,25 @@
 	<article>
 		<h1>Fale długie</h1>
 		<p>
-			Fale długie zawsze mnie fascynowały. Wbrew pozorom w dzisiejszych czasach nie jest łatwo je
-			odbierać, pośród zakłóceń generowanych przez wiele urządzeń i maszyn ciężko jest wyłowić słabe
-			sygnały na tych częstotliwościach. Do prawidłowego odbioru trzeba specjalnych anten (by
-			osiągnąć jakieś zadowalające rezultaty podczas odbioru dalszych stacji). Zbudowałem kilka
-			anten, najwięcej zadowolenia sprawia mi antena wykonana z 22 prętów ferrytowych i licy - widać
-			ją bez ochronnej obudowy na zdjęciu poniżej. Subiektywnie mogę stwierdzić, że zwiększa ona
-			sygnał na wbudowanej antenie odbiornika w paśmie LW do 5S - ułatwia odbiór stacji europejskich
-			w dzień, a stacje w porze nocnej można komfortowo słuchać.
+			Fale długie zawsze mnie fascynowały. Wbrew pozorom, w dzisiejszych czasach nie jest łatwo je
+			odbierać — pośród zakłóceń generowanych przez wiele urządzeń i maszyn ciężko jest wyłowić
+			słabe sygnały na tych częstotliwościach. Do prawidłowego odbioru trzeba specjalnych anten (by
+			osiągnąć zadowalające rezultaty podczas odbioru dalszych stacji). Zbudowałem kilka anten;
+			najwięcej zadowolenia sprawia mi antena wykonana z 22 prętów ferrytowych i licy — widać ją bez
+			ochronnej obudowy na zdjęciu poniżej. Subiektywnie mogę stwierdzić, że zwiększa ona sygnał na
+			wbudowanej antenie odbiornika w paśmie LW do 5S — ułatwia odbiór stacji europejskich w dzień,
+			a stacje w porze nocnej można komfortowo słuchać.
 		</p>
 		<p>
-			Fale długie (fale kilometrowe) -zakres fal radiowych o częstotliwości: 30-300 kHz i długości
-			10-1 km. Zakres ten jest przeznaczony głównie dla rozgłośni radiowych w I regionie ITU
+			Fale długie (fale kilometrowe) — zakres fal radiowych o częstotliwości 30–300 kHz i długości
+			od 10 do 1 km. Zakres ten jest przeznaczony głównie dla rozgłośni radiowych w I regionie ITU
 			(Europa, Afryka i Bliski Wschód). Obecnie w programowej radiofonii europejskiej przyznany jest
 			zakres 144–288 kHz z odstępami pomiędzy kanałami wynoszącymi 9 kHz (nie wszystkie stacje
-			przestrzegały tych zaleceń). W paśmie tym nadawane są też na zasadzie rozgłaszania dane
-			cyfrowe np. wzorce czasu, jednym z nich jest europejski radiowy sygnał zegarowy DCF77 nadawany
-			spod Frankfurtu nad Menem na częstotliwości 77,5 kHz (czyli poniżej przyznanej do „audycji
-			fonicznych”). Częstotliwości powyżej 190 kHz wykorzystywane są również przez radiolatarnie
-			bezkierunkowe (NDB). (źródło: wikipedia.pl)
+			przestrzegają tych zaleceń). W paśmie tym nadawane są też — na zasadzie rozgłaszania — dane
+			cyfrowe, np. wzorce czasu. Jednym z nich jest europejski radiowy sygnał zegarowy DCF77,
+			nadawany spod Frankfurtu nad Menem na częstotliwości 77,5 kHz (czyli poniżej zakresu
+			przyznanego dla „audycji fonicznych”). Częstotliwości powyżej 190 kHz wykorzystywane są
+			również przez radiolatarnie bezkierunkowe (NDB). (Źródło: Wikipedia.pl)
 		</p>
 		<iframe
 			width="600"
@@ -64,10 +64,10 @@
 			<br />
 		</div>
 		<p>
-			Przeglądając Internet znalazłem pomysł na antenę LW. Udało mi się nabyć pręty ferrytowe (nie
-			jest to łatwe). Aktualnie cała konstrukcja zamknięta jest w "przemysłowej" obudowie z grubego
-			i twardego plastiku z wyprowadzoną osią kondensatora zmiennego na zewnątrz i kilkoma
-			przełącznikami - opcja w przyszłości na fale średnie. Ciągle coś w niej zmieniam, dla tego nie
+			Przeglądając Internet, znalazłem pomysł na antenę LW. Udało mi się nabyć pręty ferrytowe (nie
+			jest to łatwe). Aktualnie cała konstrukcja zamknięta jest w „przemysłowej” obudowie z grubego
+			i twardego plastiku, z wyprowadzoną osią kondensatora zmiennego na zewnątrz i kilkoma
+			przełącznikami — opcja w przyszłości na fale średnie. Ciągle coś w niej zmieniam, dlatego nie
 			jest uporządkowana w środku. Wzmocnienie sygnału anteny ferrytowej zewnętrznej jest dość
 			znaczne, co można zobaczyć na filmie.
 		</p>
@@ -81,10 +81,10 @@
 			allowfullscreen
 		></iframe>
 		<p>
-			Wzrost sygnału jest około 5S, stacje niesłyszalne/ledwo słyszane na wbudowanej antenie stają
-			się dobrze odbierane po zbliżeniu do zewnętrznej anteny ferrytowej LW. Doskonale to widać na
-			filmie obok. Clarkstown 252 kHz jest bardzo słabo odbierana w dzień u mnie w ogrodzie.
-			Niestety liczba stacji radowych na fali długiej zmniejsza się .
+			Wzrost sygnału wynosi około 5S — stacje niesłyszalne lub ledwo słyszane na wbudowanej antenie
+			stają się dobrze odbierane po zbliżeniu do zewnętrznej anteny ferrytowej LW. Doskonale to
+			widać na filmie obok. Clarkstown 252 kHz jest bardzo słabo odbierana w dzień u mnie w
+			ogrodzie. Niestety, liczba stacji radiowych na fali długiej zmniejsza się.
 			<br />
 		</p>
 		<h2>Interaktywna mapa nadajników długofalowych.</h2>
@@ -98,154 +98,143 @@
 		<h2>Proszę kliknąć w znaczniki na mapie - pojawi się więcej informacji.</h2>
 		<hr />
 		<h1>Lista aktywnych stacji (lub niedawno aktywnych)</h1>
-		<table>
+		<table border="1" cellspacing="0" cellpadding="6">
 			<thead>
 				<tr>
-					<td style="width:105px;height:40px">&nbsp;Częstotliwość</td>
-					<td style="width:135px">&nbsp; Nazwa stacji</td>
-					<td style="width:181px">&nbsp; Miejsce</td>
-					<td style="width:370px">&nbsp; Opis</td>
-					<td style="width:80px">&nbsp; Moc</td>
+					<th style="width:105px;height:40px">Częstotliwość</th>
+					<th style="width:135px">Nazwa stacji</th>
+					<th style="width:181px">Miejsce</th>
+					<th style="width:370px">Opis</th>
+					<th style="width:80px">Moc</th>
 				</tr>
 			</thead>
-			<tbody
-				><tr>
+			<tbody>
+				<tr>
 					<td>153 kHz</td>
-					<td> Radio Algieria Chaine 1</td>
+					<td>Radio Algieria Chaine 1</td>
 					<td>Kenadsa</td>
 					<td>Trzy maszty z odciągami o wysokości 357 metrów.</td>
-					<td>2000W</td>
+					<td>2000 W</td>
 				</tr>
 				<tr>
 					<td>153 kHz</td>
 					<td>Radio Antena Satelor</td>
 					<td>Braszów</td>
-					<td>Antena typu T na 2 stalowych masztach kratowych z odciągami, wysokość: 250 metrów.</td
+					<td
+						>Antena typu T na dwóch stalowych masztach kratowych z odciągami, wysokość: 250 metrów.</td
 					>
-					<td>200W</td>
+					<td>200 W</td>
 				</tr>
 				<tr>
 					<td>164 kHz</td>
 					<td>MNB Radio 1</td>
 					<td>Ułan Bator</td>
 					<td
-						>Maszt kratownicowy o wysokości 259 metrów.<br />
-						Transmisje od 22:00 do 15:00 UTC. Według doniesień występuje sporadycznie i działa ze znacznie
-						zmniejszoną mocą.</td
+						>Maszt kratownicowy o wysokości 259 metrów.<br />Transmisje od 22:00 do 15:00 UTC.
+						Działa sporadycznie ze zmniejszoną mocą.</td
 					>
-					<td>250W</td>
+					<td>250 W</td>
 				</tr>
 				<tr>
 					<td>171 kHz</td>
 					<td>Medi 1</td>
 					<td>Nador</td>
 					<td
-						>Antena kierunkowa składająca się z trzech stalowych masztów kratowych z odciągami o
-						wysokości 380 metrów.<br />
-						Prywatna, komercyjna marokańska sieć radiowa. Według stanu na sierpień 2023 r. działała sporadycznie
-						przy małej mocy</td
+						>Antena kierunkowa z trzech stalowych masztów kratowych z odciągami o wysokości 380
+						metrów.<br />Prywatna, komercyjna marokańska sieć radiowa. Według stanu na sierpień 2023
+						r. działała sporadycznie przy małej mocy.</td
 					>
-					<td>1600W</td>
+					<td>1600 W</td>
 				</tr>
 				<tr>
 					<td>189 kHz</td>
-					<td>RÚV Rás 1 RÚV Rás</td>
-					<td>Gufuskalar niedaleko Hellissandur</td>
+					<td>RÚV Rás 1</td>
+					<td>Gufuskalar, niedaleko Hellissandur</td>
 					<td
-						>Niewielka owalna antena dwukierunkowa, obciążone od góry równolegle połączone pętle
-						trójkątne, maszt jako wspólny element, wszystkie odciągi izolowane z wyjątkiem dwóch
-						promieniujących, diametralnie przeciwnych uziemionych odciągów górnych, pętle zamknięte
-						miedzianymi paskami w ziemi od dwóch przewodzących punktów uziemiających do podstawy
-						Maszt kratowy ze stalowymi odciągami izolowany od podłoża, wysokość: 412 metrów.<br />
-						Planowane zaprzestanie nadawania w 2024 roku.</td
+						>Niewielka antena dwukierunkowa z pętlami trójkątnymi, maszt kratowy o wysokości 412
+						metrów.<br />Planowane zakończenie nadawania w 2024 roku.</td
 					>
-					<td>300W</td>
+					<td>300 W</td>
 				</tr>
 				<tr>
 					<td>198 kHz</td>
 					<td>BBC Radio 4</td>
 					<td>Droitwich</td>
 					<td
-						>Antena typu T na dwóch stalowych masztach z odciągami, izolowana od podłoża, o
-						wysokości 213 metrów.<br />Nadaje do marca 2024 roku!</td
+						>Antena typu T na dwóch stalowych masztach z odciągami, izolowana od podłoża, wysokość:
+						213 metrów.<br />Nadaje do marca 2024 roku.</td
 					>
-					<td>500W</td>
+					<td>500 W</td>
 				</tr>
 				<tr>
 					<td>198 kHz</td>
 					<td>BBC Radio 4</td>
 					<td>Burghead</td>
 					<td
-						>Antena dookólna, maszt kratowy ze stalowymi odciągami, wysokość 154 m.<br />Nadaje do
-						marca 2024 roku!</td
+						>Antena dookólna, maszt kratowy ze stalowymi odciągami, wysokość: 154 metry.<br />Nadaje
+						do marca 2024 roku.</td
 					>
-					<td>50W</td>
+					<td>50 W</td>
 				</tr>
 				<tr>
 					<td>198 kHz</td>
 					<td>BBC Radio 4</td>
 					<td>Westerglen</td>
 					<td
-						>Antena dookólna, maszt kratowy ze stalowymi odciągami, wysokość 152 m.<br />Nadaje do
-						marca 2024 roku!</td
+						>Antena dookólna, maszt kratowy ze stalowymi odciągami, wysokość: 152 metry.<br />Nadaje
+						do marca 2024 roku.</td
 					>
-					<td>50W</td>
+					<td>50 W</td>
 				</tr>
 				<tr>
 					<td>209 kHz</td>
 					<td>MNB Radio 1</td>
 					<td>Choibalsan</td>
-					<td>Brak danych. <br />Sporadyczne transmisje od 21:00 do 15:00 UTC.</td>
-					<td>40W</td>
+					<td>Sporadyczne transmisje od 21:00 do 15:00 UTC. Brak danych technicznych.</td>
+					<td>40 W</td>
 				</tr>
 				<tr>
 					<td>209 kHz</td>
 					<td>MNB Radio 1</td>
 					<td>Dalanzadgad</td>
-					<td
-						>Brak danych. <br />Brak danych. <br />Sporadyczne transmisje od 21:00 do 15:00 UTC.
-					</td>
-					<td>40W</td>
+					<td>Sporadyczne transmisje od 21:00 do 15:00 UTC. Brak danych technicznych.</td>
+					<td>40 W</td>
 				</tr>
 				<tr>
 					<td>209 kHz</td>
 					<td>MNB Radio 1</td>
 					<td>Olgi</td>
-					<td
-						>Brak danych. <br />Brak danych. <br />Sporadyczne transmisje od 21:00 do 15:00 UTC.
-					</td>
-					<td>30W</td>
+					<td>Sporadyczne transmisje od 21:00 do 15:00 UTC. Brak danych technicznych.</td>
+					<td>30 W</td>
 				</tr>
 				<tr>
 					<td>225 kHz</td>
 					<td>Program Pierwszy Polskiego Radia</td>
-					<td></td>
+					<td>---</td>
 					<td
-						>Antena kierunkowa, dwa maszty radiowe z odciągami zasilane z góry, wysokość 330 m i 289
-						m.<br />
-						Wcześniej użytkowano Konstantynów (katastrofa budowlana).</td
+						>Antena kierunkowa, dwa maszty radiowe z odciągami zasilane z góry, wysokość: 330 m i
+						289 m.<br />Wcześniej użytkowano Konstantynów (katastrofa budowlana).</td
 					>
-					<td>1000/700W</td>
+					<td>1000/700 W</td>
 				</tr>
 				<tr>
 					<td>227 kHz</td>
 					<td>MNB Radio 1</td>
 					<td>Miasto Ałtaj</td>
 					<td
-						>Maszt kratownicowy ze stali linowej.<br />
-						Sporadyczne transmisje od 21:00 do 15:00 UTC.</td
+						>Maszt kratownicowy ze stali linowej.<br />Sporadyczne transmisje od 21:00 do 15:00 UTC.</td
 					>
-					<td>40W</td>
+					<td>40 W</td>
 				</tr>
 				<tr>
 					<td>252 kHz</td>
 					<td>Radio Algieria Chaîne 3</td>
 					<td>Tipaza</td>
 					<td
-						>Antena dookólna, maszt stalowy z pojedynczym odciągiem, wysokość 355 metrów.<br />
-						Przerywany</td
+						>Antena dookólna, maszt stalowy z pojedynczym odciągiem, wysokość: 355 metrów.<br
+						/>Transmisja nieregularna.</td
 					>
-					<td>1500/750W</td>
+					<td>1500/750 W</td>
 				</tr>
 			</tbody>
 		</table>
@@ -870,18 +859,18 @@
 			Tabela może zawierać nieprawdziwe dane, jeśli masz informacje lub znajdziesz błędy - proszę
 			napisz do mnie.
 		</p>
-		<h2>Doskonałe radio na fale długie.</h2>
+		<h2>Doskonałe radio na fale długie</h2>
 		<p>
-			Niestety jestem w ciągłym poszukiwaniu w miarę taniego i dobrego odbiornika na fale długie.
-			Niestety im nowsze urządzenia tym ich czułość na tym paśmie jest mniejsza. W nowych
-			konstrukcjach poprawia się komfort obsługi, jednak zapomina się o najważniejszej własności
-			odbiornika - czułości! Akceptowalnym minimum czułości dla mnie jest co najmniej 1mV/m - tylko
-			w tedy mogę odebrać wieczorami europejskie stacje radiowe pracujące na LW.
+			Niestety, jestem w ciągłym poszukiwaniu w miarę taniego i dobrego odbiornika na fale długie.
+			Im nowsze urządzenia, tym ich czułość na tym paśmie jest mniejsza. W nowych konstrukcjach
+			poprawia się komfort obsługi, jednak często zapomina się o najważniejszej właściwości
+			odbiornika — czułości! Akceptowalnym minimum czułości dla mnie jest co najmniej 1 mV/m — tylko
+			wtedy mogę wieczorami odebrać europejskie stacje radiowe pracujące na LW.
 		</p>
 		<p>
-			Miłym zaskoczeniem są odbiorniki byłego Związku Radzieckiego - Sokół czy Heiva RP-205
-			(niestety brak licznika częstotliwości). Nawet ogólnie uznany za dobry odbiornik Sangean ATS
-			909 nie dorównuje ich czułości.
+			Miłym zaskoczeniem są odbiorniki byłego Związku Radzieckiego — Sokół czy Heiva RP-205
+			(niestety bez licznika częstotliwości). Nawet ogólnie uznany za dobry odbiornik Sangean
+			ATS-909 nie dorównuje im pod względem czułości.
 		</p>
 
 		<iframe

@@ -2,22 +2,27 @@
 <div class="lead">
 	<!-- tresc-->
 	<article>
-		<p>
-			Strona Weroniki SQ1KSL i Sławka SQ1KSM. <br />
-			Znajdziesz tutaj garść informacji z: krótkofalarstwa, fotografii, informatyki, radia i sat.
-		</p>
-		<p>
-			Na tej stronie prezentuję moje prace z w/w dziedzin. Znajdziesz tu również wiele zdjęć i
-			informacji, które zebrały się przez kilka lat związane ze środowiskiem krótkofalarskim.
-		</p>
-	</article>
-	<article>
-		<h1>Polecam</h1>
-		<p>
-			Na początek kilka fotek (Minolta Z2 i przekazy z tunera satelitarnego SS2 - zdjęcia sprzed
-			2015 roku).<br />
-			Opisy po najechaniu myszką lub pod zdjęciem podczas prezentacji.
-		</p>
+		<article>
+			<p>
+				Strona Weroniki SQ1KSL i Sławka SQ1KSM.<br />
+				Znajdziesz tutaj garść informacji z zakresu: krótkofalarstwa, fotografii, informatyki, radia
+				i satelitów.
+			</p>
+			<p>
+				Na tej stronie prezentuję moje prace z wymienionych dziedzin. Znajdziesz tu również wiele
+				zdjęć oraz informacji, które zebrały się przez kilka lat — związanych ze środowiskiem
+				krótkofalarskim.
+			</p>
+		</article>
+
+		<article>
+			<h1>Polecam</h1>
+			<p>
+				Na początek kilka fotek (Minolta Z2 oraz przekazy z tunera satelitarnego SS2 — zdjęcia
+				sprzed 2015 roku).<br />
+				Opisy pojawiają się po najechaniu myszką lub pod zdjęciem podczas prezentacji.
+			</p>
+		</article>
 	</article>
 
 	<!-- Foto-->

@@ -1,5 +1,5 @@
 <div class="lead">
-	<!-- tresc-->
+	<!-- treść -->
 	<article>
 		<h1>SN0TK</h1>
 
@@ -8,17 +8,17 @@
 				height="191"
 				width="300"
 				src="/zdjecia/twierdza/sn0tk_m.webp"
-				alt=" zdjęcie QSL"
+				alt="Zdjęcie QSL"
 				title="QSL"
 				style="margin:10px 0px 0px 10px;float:right"
 			/></a
 		>
 		<p>
-			Stacja była aktywowana już dwukrotnie:- 30 sierpnia 2012 do 13.09.2012 i 03-18 Września 2011r.<br
+			Stacja była aktywowana już dwukrotnie: 30 sierpnia 2012 do 13.09.2012 i 3–18 września 2011 r.<br
 			/>
-			Na tę okoliczność została wydana karta QSL, której sponsorem było - „Muzeum Twierdzy Kostrzyn".<br
+			Na tę okoliczność została wydana karta QSL, której sponsorem było „Muzeum Twierdzy Kostrzyn”.<br
 			/>
-			Stacja pracowała również z terenu „starego miasta" Kostrzyna nad Odrą.<br />
+			Stacja pracowała również z terenu „Starego Miasta” Kostrzyna nad Odrą.<br />
 			<b>Wszystkim dziękujemy za łączności.</b><br /><br /><br /><br /><br />
 		</p>
 		<p></p>
@@ -49,27 +49,27 @@
 			><br />
 
 			<br />
-			<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
+			<h2>Proszę kliknąć na dowolne zdjęcie – uruchomi się przeglądarka zdjęć.</h2>
 		</div>
 
 		<hr />
-		<b>„Kostrzyńskie Pompeje” </b>– ruiny Starego Miasta i Twierdzy Kostrzyn<br />
-		Historia kostrzyńskiej Starówki jest pasjonująca. Szczególne piętno wywarły nań twierdza oraz król
-		pruski Fryderyk Wielki. Stare Miasto ze swoim zamkiem, ratuszem, kościołem parafialnym i rynkiem
-		posiadało niepowtarzalny urok. Wydarzenia z końca II Wojny Światowej spowodowały, że miasto zamarło
+		<b>„Kostrzyńskie Pompeje”</b> – ruiny Starego Miasta i Twierdzy Kostrzyn<br />
+		Historia kostrzyńskiej Starówki jest pasjonująca. Szczególne piętno wywarły na nią twierdza oraz
+		król pruski Fryderyk Wielki. Stare Miasto ze swoim zamkiem, ratuszem, kościołem parafialnym i rynkiem
+		posiadało niepowtarzalny urok. Wydarzenia z końca II wojny światowej spowodowały, że miasto zamarło
 		na bez mała 50 lat.<br />
-		Odgruzowane ruiny Starówki oraz pozostałości kostrzyńskiej twierdzy, budowanej w latach 1537-1568
+		Odgruzowane ruiny Starówki oraz pozostałości kostrzyńskiej twierdzy, budowanej w latach 1537–1568,
 		są najciekawszą atrakcją turystyczną miasta.<br />
 		<p></p>
 		<hr />
 		<p lang="de">
-			<b>"Das Küstriner Pompeji"</b> –Altstadtruinen und Überreste der Festung Küstrin<br />
+			<b>"Das Küstriner Pompeji"</b> – Altstadtruinen und Überreste der Festung Küstrin<br />
 			Die Geschichte der Küstriner Altstadt ist überaus faszinierend. Ihr Gepräge hat sie sowohl der
 			Festung wie auch dem König Friedrich II. von Preußen zu verdanken.<br />
 			Der historische Stadtkern mit Schloss, Rathaus, Pfarrkirche und Marktplatz besaß einst einen geradezu
 			märchenhaften Zauber. Aber infolge der Ereignisse der letzten Wochen des II. Weltkriegs lag die
 			Altstadt für fast 50 Jahre im Todesschlaf.<br />
-			Die enttrümmerte Altstadt und die Überreste der Festung Küstrin (erbaut 1537-1568) sind die Hauptsehenswürdigkeiten
+			Die enttrümmerte Altstadt und die Überreste der Festung Küstrin (erbaut 1537–1568) sind die Hauptsehenswürdigkeiten
 			der Stadt.<br />
 		</p>
 	</article>

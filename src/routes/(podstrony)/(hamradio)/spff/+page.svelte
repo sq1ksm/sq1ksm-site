@@ -1,8 +1,8 @@
 <div class="lead">
-	<!-- tresc-->
+	<!-- treść -->
 	<h1>Parki SPFF</h1>
 	<p>
-		Poniżej kilka kart QSL które wysyłaliśmy potwierdzając łączność z nami z danego miejsca.<br />
+		Poniżej kilka kart QSL, które wysyłaliśmy, potwierdzając łączność z nami z danego miejsca.<br />
 		Karty są ekologiczne!
 	</p>
 	<div style="text-align: center;">
@@ -19,52 +19,52 @@
 			><img src="/zdjecia/spff/spff020_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a href="/zdjecia/spff/spff056.webp" rel="lyteshow[vacation]" title="Karta QSL"
-			><img src="/zdjecia/spff/spff056_m.webp" width=" 140" height="96" alt="" /></a
+			><img src="/zdjecia/spff/spff056_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a href="/zdjecia/spff/spff513.webp" rel="lyteshow[vacation]" title="Karta QSL"
 			><img src="/zdjecia/spff/SPFF513_m.webp" width="140" height="96" alt="" /></a
 		>
 		<br />
-		<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
+		<h2>Proszę kliknąć na dowolne zdjęcie – uruchomi się przeglądarka zdjęć.</h2>
 	</div>
 	<hr />
-	<h1>Parki z których nadawaliśmy</h1>
+	<h1>Parki, z których nadawaliśmy</h1>
 
-	28.08.2011 SPFF105 09.00-17.00 UTC (40/80m SSB)
+	28.08.2011 SPFF105 09:00–17:00 UTC (40/80 m SSB)
 	<br /><br />
 	<div style="text-align: center;">
-		<a href="/zdjecia/spff/f105_01.webp" rel="lyteshow[vacation]" title="SQ1KSM przy FT450"
+		<a href="/zdjecia/spff/f105_01.webp" rel="lyteshow[vacation]" title="SQ1KSM przy FT-450"
 			><img src="/zdjecia/spff/f105_01_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a
 			href="/zdjecia/spff/f105_02.webp"
 			rel="lyteshow[vacation]"
-			title="SP3SBY w aucie z TRX - Atlas"
+			title="SP3SBY w aucie z TRX – Atlas"
 			><img src="/zdjecia/spff/f105_02_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a href="/zdjecia/spff/f105_03.webp" rel="lyteshow[vacation]" title="SP3GVX, Piotr i SQ1KSM"
 			><img src="/zdjecia/spff/f105_03_m.webp" width="140" height="96" alt="" /></a
 		>
-		<a href="/zdjecia/spff/f105_04.webp" rel="lyteshow[vacation]" title="SP3GVX przy FT450"
+		<a href="/zdjecia/spff/f105_04.webp" rel="lyteshow[vacation]" title="SP3GVX przy FT-450"
 			><img src="/zdjecia/spff/f105_04_m.webp" width="140" height="96" alt="" /></a
 		><br />
 
 		<br />
-		<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
+		<h2>Proszę kliknąć na dowolne zdjęcie – uruchomi się przeglądarka zdjęć.</h2>
 		<hr />
 	</div>
 	<br />
 
-	24.07.2011 SPFF174 13.50-15.00 UTC (40/80m SSB)<br /><br />
+	24.07.2011 SPFF174 13:50–15:00 UTC (40/80 m SSB)<br /><br />
 
 	<div style="text-align: center;">
-		<a href="/zdjecia/spff/f174_01.webp" rel="lyteshow[vacation]" title="SQ1KSM przy FT450"
+		<a href="/zdjecia/spff/f174_01.webp" rel="lyteshow[vacation]" title="SQ1KSM przy FT-450"
 			><img src="/zdjecia/spff/f174_01_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a
 			href="/zdjecia/spff/f174_02.webp"
 			rel="lyteshow[vacation]"
-			title="SQ1KSM robi łączność a Adrian SQ1NXN sprawda ;-)"
+			title="SQ1KSM robi łączność, a Adrian SQ1NXN sprawdza ;-)"
 			><img src="/zdjecia/spff/f174_02_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a href="/zdjecia/spff/f174_03.webp" rel="lyteshow[vacation]" title="SQ1KSM robi łączność."
@@ -77,19 +77,19 @@
 			><img src="/zdjecia/spff/f174_04_m.webp" width="140" height="96" alt="" /></a
 		><br />
 		<br />
-		<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
+		<h2>Proszę kliknąć na dowolne zdjęcie – uruchomi się przeglądarka zdjęć.</h2>
 		<hr />
 	</div>
 	<br />
 
-	11.11.2010 SPFF513 13.00-17.00 UTC (40/80m SSB)
+	11.11.2010 SPFF513 13:00–17:00 UTC (40/80 m SSB)
 
 	<br /><br />
 	<div style="text-align: center;">
 		<a
 			href="/zdjecia/spff/f513_01.webp"
 			rel="lyteshow[vacation]"
-			title="Weronika SQ1KSL robi łączność a Sławek SQ1KSM loguje na JORNADZIE 750!"
+			title="Weronika SQ1KSL robi łączność, a Sławek SQ1KSM loguje na JORNADZIE 750!"
 			><img src="/zdjecia/spff/f513_01_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a
@@ -107,75 +107,74 @@
 		<a
 			href="/zdjecia/spff/f513_04.webp"
 			rel="lyteshow[vacation]"
-			title="Sławek SQ1KSM pomimo ciemności dalej pracuje, SQ1NSN i SP1FMW czekają aż skończy ;-)"
+			title="Sławek SQ1KSM, pomimo ciemności, dalej pracuje; SQ1NSN i SP1FMW czekają, aż skończy ;-)"
 			><img src="/zdjecia/spff/f513_04_m.webp" width="140" height="96" alt="" /></a
 		><br />
 		<br />
-		<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
+		<h2>Proszę kliknąć na dowolne zdjęcie – uruchomi się przeglądarka zdjęć.</h2>
 		<hr />
 	</div>
 
-	16.01.2010 SPFF551 09.00-15.00 UTC (40/80m SSB)<br /><br />
+	16.01.2010 SPFF551 09:00–15:00 UTC (40/80 m SSB)<br /><br />
 
 	<div style="text-align: center;">
 		<a
 			href="/zdjecia/spff/f551_01.webp"
 			rel="lyteshow[vacation]"
-			title="Piotr, SQ1KSL, SQ1NXN przy FT450"
+			title="Piotr, SQ1KSL, SQ1NXN przy FT-450"
 			><img src="/zdjecia/spff/f551_01_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a
 			href="/zdjecia/spff/f551_02.webp"
 			rel="lyteshow[vacation]"
-			title="Piotr, SQ1KSL, SP1FMW przy FT450"
+			title="Piotr, SQ1KSL, SP1FMW przy FT-450"
 			><img src="/zdjecia/spff/f551_02_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a href="/zdjecia/spff/f551_03.webp" rel="lyteshow[vacation]" title="SQ1NXN przy FT-450, SQ1KSM"
 			><img src="/zdjecia/spff/f551_03_m.webp" width="140" height="96" alt="" /></a
 		>
-		<a href="/zdjecia/spff/f551_04.webp" rel="lyteshow[vacation]" title="SQ1KSL przy FT450"
+		<a href="/zdjecia/spff/f551_04.webp" rel="lyteshow[vacation]" title="SQ1KSL przy FT-450"
 			><img src="/zdjecia/spff/f551_04_m.webp" width="140" height="96" alt="" /></a
 		><br />
 		<br />
-		<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
+		<h2>Proszę kliknąć na dowolne zdjęcie – uruchomi się przeglądarka zdjęć.</h2>
 	</div>
 	<hr />
 
-	13.02.2010 SPFF020 09.00-13.00 UTC (40/80m SSB)
+	13.02.2010 SPFF020 09:00–13:00 UTC (40/80 m SSB)
 	<br /><br />
 	<div style="text-align: center;">
-		<a href="/zdjecia/spff/f020_01.webp" rel="lyteshow[vacation]" title="SQ1KSM przy FT450"
+		<a href="/zdjecia/spff/f020_01.webp" rel="lyteshow[vacation]" title="SQ1KSM przy FT-450"
 			><img src="/zdjecia/spff/f020_01_m.webp" width="140" height="96" alt="" /></a
 		>
-		<a href="/zdjecia/spff/f020_02.webp" rel="lyteshow[vacation]" title="SQ1KSM przy FT450"
+		<a href="/zdjecia/spff/f020_02.webp" rel="lyteshow[vacation]" title="SQ1KSM przy FT-450"
 			><img src="/zdjecia/spff/f020_02_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a href="/zdjecia/spff/f020_03.webp" rel="lyteshow[vacation]" title="SQ1NXN przy FT-817"
 			><img src="/zdjecia/spff/f020_03_m.webp" width="140" height="96" alt="" /></a
 		>
-		<a href="/zdjecia/spff/f020_04.webp" rel="lyteshow[vacation]" title="SQ1KSL przy FT450"
+		<a href="/zdjecia/spff/f020_04.webp" rel="lyteshow[vacation]" title="SQ1KSL przy FT-450"
 			><img src="/zdjecia/spff/f020_04_m.webp" width="140" height="96" alt="" /></a
 		><br />
 		<br />
-		<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
-		&gt;<br />
+		<h2>Proszę kliknąć na dowolne zdjęcie – uruchomi się przeglądarka zdjęć.</h2>
 	</div>
 	<hr />
 	<br />
 
-	01.04.2010 SPFF056 10.00-15.00 UTC (40/80m SSB)<br /><br />
+	01.04.2010 SPFF056 10:00–15:00 UTC (40/80 m SSB)<br /><br />
 
 	<div style="text-align: center;">
 		<a
 			href="/zdjecia/spff/f056_01.webp"
 			rel="lyteshow[vacation]"
-			title="Weronika SQ1KSL pracuje na radio."
+			title="Weronika SQ1KSL pracuje na radiu."
 			><img src="/zdjecia/spff/f056_01_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a
 			href="/zdjecia/spff/f056_02.webp"
 			rel="lyteshow[vacation]"
-			title="Sławek SQ1KSM pracuje na radio."
+			title="Sławek SQ1KSM pracuje na radiu."
 			><img src="/zdjecia/spff/f056_02_m.webp" width="140" height="96" alt="" /></a
 		>
 		<a
@@ -187,11 +186,11 @@
 		<a
 			href="/zdjecia/spff/f056_04.webp"
 			rel="lyteshow[vacation]"
-			title="Marek SP3GVX Piort i Weronika SQ1KSL w międzyczasie grają w chińczyka."
+			title="Marek SP3GVX, Piotr i Weronika SQ1KSL w międzyczasie grają w chińczyka."
 			><img src="/zdjecia/spff/f056_04_m.webp" width="140" height="96" alt="" /></a
 		><br />
 		<br />
-		<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
+		<h2>Proszę kliknąć na dowolne zdjęcie – uruchomi się przeglądarka zdjęć.</h2>
 		<br /><br />
 	</div>
 	<hr />
@@ -213,13 +212,13 @@
 		<a
 			href="/zdjecia/spff/f209_04.webp"
 			rel="lyteshow[vacation]"
-			title="SP3GVX, SQ1KSM, SP3SBY, SP3WVL - obgadać trzeba wszystko hi hi!"
+			title="SP3GVX, SQ1KSM, SP3SBY, SP3WVL – obgadać trzeba wszystko, hi hi!"
 			><img src="/zdjecia/spff/f209_04_m.webp" width="140" height="96" alt="" /></a
 		><br />
 		<br />
-		<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
+		<h2>Proszę kliknąć na dowolne zdjęcie – uruchomi się przeglądarka zdjęć.</h2>
 	</div>
 	<p style="text-align:right">
-		<b style="color:rgb(256,256,0)">Sławek SQ1KSM (2015r.)<br /> foto: SQ1NXN, SQ1NXZ i SQ1KSM</b>
+		<b style="color:rgb(255,255,0)">Sławek SQ1KSM (2015 r.)<br /> foto: SQ1NXN, SQ1NXZ i SQ1KSM</b>
 	</p>
 </div>

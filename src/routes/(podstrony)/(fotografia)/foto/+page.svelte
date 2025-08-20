@@ -1,11 +1,11 @@
 <div class="lead">
-	<!-- tresc-->
+	<!-- treść -->
 	<article>
 		<h1>Do nowego domu</h1>
 		<p>
-			Miałem okazję uczestniczyć podczas prób do spektaklu. To największy projekt fotograficzny
+			Miałem okazję uczestniczyć w próbach do spektaklu. To mój największy projekt fotograficzny,
 			jakiego się podjąłem. Specyfika miejsca wystawienia spektaklu uniemożliwiła zrobienie dobrych
-			zdjęć podczas premiery, ale próby przed wystawieniem umożliwiły mi zrobienie wielu zdjęć -
+			zdjęć podczas premiery, ale próby przed wystawieniem umożliwiły mi zrobienie wielu zdjęć –
 			obok wyświetlane.
 		</p>
 		<hr />
@@ -21,29 +21,29 @@
 		>
 		<h2>Kilka słów o spektaklu:</h2>
 		<p>
-			Widowisko plenerowe o pierwszych repatriantach na naszych ziemiach. <br />
-			Cel projektu: Przypomnienie i przybliżenie historii repatriacji z ziem wschodnich Polski przedwojennej
-			w pierwszych miesiącach po wojnie 1945 roku. Odtworzenie małych dramatów ludzi, którzy mimo wszystko
-			zasiedlili wsie w gminie Dębno, wrośli w nadaną im ziemię i wychowali kolejne pokolenia w duchu
-			pamięci o swojej historii i kulturze.<br />
-			Miejsce projektu: Stacja kolejowa we wsi Krześnica.<br />
-			Wykonawcy: Mieszkańcy wsi w wieku obrazującym trzy pokolenia przesiedleńców, czyli od 5 – 60 lat.<br
+			Widowisko plenerowe o pierwszych repatriantach na naszych ziemiach.<br />
+			Cel projektu: przypomnienie i przybliżenie historii repatriacji z ziem wschodnich Polski przedwojennej
+			w pierwszych miesiącach po wojnie, w 1945 roku. Odtworzenie małych dramatów ludzi, którzy mimo
+			wszystko zasiedlili wsie w gminie Dębno, wrośli w nadaną im ziemię i wychowali kolejne pokolenia
+			w duchu pamięci o swojej historii i kulturze.<br />
+			Miejsce projektu: stacja kolejowa we wsi Krześnica.<br />
+			Wykonawcy: mieszkańcy wsi w wieku obrazującym trzy pokolenia przesiedleńców, czyli od 5 do 60 lat.<br
 			/>
-			Liczba wykonawców: 30 osób (w tym dzieci 6). Termin premiery: 9 października 2015 roku, we wsi
-			Krześnica, w ramach Inauguracji Roku Kulturalnego. Grupy rekonstrukcyjne: <br />
+			Liczba wykonawców: 30 osób (w tym 6 dzieci). Termin premiery: 9 października 2015 roku, we wsi
+			Krześnica, w ramach Inauguracji Roku Kulturalnego. Grupy rekonstrukcyjne:<br />
 		</p>
 		<ul>
 			<li>
-				I mistyczna - 10 osób: ksiądz, gosposia księdza, dwoje dzieci, dwie starsze pary
+				I mistyczna – 10 osób: ksiądz, gosposia księdza, dwoje dzieci, dwie starsze pary
 				(dziadkowie), młody kaleka, dziewczyna.
 			</li>
 			<li>
-				II specjalna - 10 osób: żołnierz w mundurze polskim, jego żona i dziecko, 3 młode dziewczyny
+				II specjalna – 10 osób: żołnierz w mundurze polskim, jego żona i dziecko, 3 młode dziewczyny
 				(aktywistki), młode małżeństwo i ich dziecko, starsza kobieta (niema), koza.
 			</li>
 			<li>
-				III zagubieni – ojciec, matka i ich dorosła córka Wala, stara matka z synem kawalerem -
-				Stepanem, dwie damy, dwaj bracia grajkowie, Bogdan i Prakseda - małżeństwo z dzieckiem,
+				III zagubieni – ojciec, matka i ich dorosła córka Wala, stara matka z synem kawalerem –
+				Stepanem, dwie damy, dwaj bracia grajkowie, Bogdan i Prakseda – małżeństwo z dzieckiem,
 				krowa i koń.
 			</li>
 		</ul>
@@ -89,173 +89,10 @@
 			<a href="/zdjecia/foto/dndk_ (21).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
 			<br />
 			<br />
-			<h2>Proszę kliknac w zdjęcie - uruchomi się przeglądarka zdjęć.</h2>
-		</div>
-		<div class="podpis">Sławek (21.06.2015)</div>
-		<p>Ze strony Domu Kultury w Dębnie.</p>
-		<p>
-			Wzruszającym widowiskiem plenerowym pt. „Do nowego domu” na przejściu kolejowym między
-			Sarbinowem a Krześnicą rozpoczęły się obchody Inauguracji Roku Kulturalnego 2015/2016.<br />
-			Przedstawienie w reżyserii Anatola Wierzchowskiego było hołdem złożonym repatriantom w 70 Rocznicę
-			Polskości i ich przyjazdu na nasze ziemie. W widowisku, w strojach z lat pięćdziesiątych wystąpili
-			mieszkańcy wsi Krześnica oraz zaproszeni przez reżysera goście. Opowiada ono historię grupy Polaków,
-			którzy po wojnie wracają do ojczyzny w poszukiwaniu nowego miejsca zamieszkania, swojego miejsca
-			na ziemi. Akcja początkowo rozgrywała się przy torach kolejowych, a następnie wszyscy przybyli
-			goście podążając za aktorami wyruszyli w półtorakilometrową drogę by dotrzeć do wsi Wilkersdorf
-			(niemiecka nazwa wsi Krześnica) i tam szukać swojego tytułowego nowego domu. Gdy przedstawienie
-			obiegło końca, publiczność zgotowała reżyserowi i aktorom długo niegasnące, gorące owacje. [...]<br
-			/>
-			Ostatnim punktem Inauguracji Roku Kulturalnego 2015/2016 było zaproszenie wszystkich na grochówkę
-			i poczęstunek przygotowany przez mieszkańców Krześnicy[...].
-		</p>
-
-		<div style="text-align: left;">
-			<a href="/zdjecia/foto/bw_ (01).webp" rel="lyteshow[vacation]" title="Galeria zdjęć."
-				><img src="/zdjecia/foto/bw_ (m).webp" width="600" height="400" alt="" /></a
-			>
-			<a href="/zdjecia/foto/bw_ (02).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (03).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (04).webp" rel="lyteshow[vacation]" title="Zdjecie"> </a>
-			<a href="/zdjecia/foto/bw_ (05).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (06).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (07).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (08).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (09).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (10).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (11).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (12).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (13).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (14).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (15).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (16).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (17).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (18).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (19).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (20).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (21).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (22).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (23).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (24).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (25).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (26).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (27).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (28).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (29).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (30).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (31).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (32).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (33).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (34).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (35).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (36).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (37).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (38).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (39).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (40).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (41).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (42).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (43).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (44).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (45).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (46).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (47).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (48).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (49).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (50).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (51).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (52).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (53).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (54).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (55).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (56).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (57).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (58).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (59).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (60).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (61).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (62).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (63).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (64).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (65).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (66).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (67).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (68).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (69).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (70).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (71).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (72).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (73).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (74).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (75).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (76).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (77).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (78).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (79).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (80).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (81).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (82).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (83).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (84).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (85).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (86).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (87).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (88).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (89).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (90).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (91).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (92).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (93).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (94).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (95).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (96).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (97).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (98).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (99).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (100).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (101).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (102).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (103).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (104).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (105).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (106).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (107).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (108).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (109).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (110).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (111).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (112).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (113).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (114).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (115).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (116).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (117).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (118).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (119).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (120).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (121).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (122).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (123).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (124).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (125).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (126).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (127).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (128).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (129).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (130).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (131).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (132).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (133).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (134).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (135).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (136).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (137).webp" rel="lyteshow[vacation]" title="Zdjęcie"> </a>
-			<a href="/zdjecia/foto/bw_ (138).webp" rel="ly teshow[vacation]" title="Zdjęcie"> </a>
-			<br />
-			<br />
-			<h2>Proszę kliknac w zdjęcie - uruchomi się przeglądarka zdjęć.</h2>
+			<h2>Proszę kliknąć w zdjęcie – uruchomi się przeglądarka zdjęć.</h2>
 		</div>
 		<p>
-			Rok puźniej zorganizowano wystawę moich zdjęć wydrukowanych w drukarni i powieszonych na
+			Rok później zorganizowano wystawę moich zdjęć wydrukowanych w drukarni i powieszonych na
 			witrynie sklepu.
 		</p>
 		<a href="/zdjecia/foto/wystawa.webp" rel="lytebox[vacation]"
@@ -263,7 +100,7 @@
 				height="256"
 				width="600"
 				src="/zdjecia/foto/wystawa_m.webp"
-				alt=" zdjęcie"
+				alt="Zdjęcie"
 				title="Wystawa moich zdjęć na witrynie sklepu."
 				style="margin:10px 0px 0px 10px;float:center"
 			/></a

@@ -1,7 +1,7 @@
 <div class="lead">
-	<!-- tresc-->
+	<!-- treść -->
 	<article>
-		<h1>Projekt Tytus Romek i A'Tomek</h1>
+		<h1>Projekt Tytus, Romek i A'Tomek</h1>
 
 		<img
 			width="262"
@@ -13,18 +13,18 @@
 		/>
 
 		<p>
-			Od 07 Czerwca do 30 2015 przeprowadziliśmy z kolegami Krótkofalowcami nasza nową akcję pod
-			tytułem "Tytus Romek i A'Tomek".
+			Od 7 czerwca do 30 czerwca 2015 przeprowadziliśmy z kolegami krótkofalowcami naszą nową akcję
+			pod tytułem „Tytus, Romek i A'Tomek”.
 		</p>
 		<p>
 			Romek i A'Tomek mają już licencję radioamatorską, za to Tytus jako wieloletni nasłuchowiec
 			stara się nabrać odpowiednich nawyków krótkofalarskich. Romek i A'Tomek z całych sił mu
-			pomagają, nawet Profesor Talent i Papcio Chmiel robią co w ich mocy. Czy mu się uda, czy zrobi
-			upragnione łączności i co najważniejsze uczłowieczy się?
+			pomagają, nawet Profesor Talent i Papcio Chmiel robią, co w ich mocy. Czy mu się uda, czy
+			zrobi upragnione łączności i, co najważniejsze, uczłowieczy się?
 		</p>
 		<p>
-			- Taką by nam pewnie ułożył historyjkę Henryk Chmielewski gdyby miał więcej sił i zdrowia. My
-			za to mogliśmy zorganizować małą akcję "krótkofalarsko-dyplomową" połączoną z szeregiem stacji
+			Taką by nam pewnie ułożył historyjkę Henryk Chmielewski, gdyby miał więcej sił i zdrowia. My
+			za to mogliśmy zorganizować małą akcję krótkofalarsko-dyplomową połączoną z szeregiem stacji
 			okolicznościowych, do której zapraszaliśmy nadawców i nasłuchowców.
 		</p>
 		<br />
@@ -77,7 +77,7 @@
 				><img src="/zdjecia/tytus/hf3tytus_m.webp" width="140" height="96" alt="" /></a
 			>
 			<br />
-			<h2>Proszę kliknąć na dowolne zdjęcie- uruchomi się przeglądarka zdjęć.</h2>
+			<h2>Proszę kliknąć na dowolne zdjęcie – uruchomi się przeglądarka zdjęć.</h2>
 		</div>
 		<hr />
 		<h1>Regulamin akcji dyplomowej „Tytus, Romek i A'Tomek”</h1>
@@ -87,7 +87,7 @@
 				width="200"
 				height="284"
 				src="/zdjecia/tytus/Dyplom_m.webp"
-				alt="zdjęcie"
+				alt="Zdjęcie"
 				title="Dyplom"
 				style="margin:10px 0px 0px 10px;float:right"
 			/></a
@@ -96,47 +96,47 @@
 		<ol>
 			<li>
 				Uczczenie rocznicy urodzin Henryka Jerzego Chmielewskiego, polskiego grafika, rysownika,
-				twórcy serii komiksu pt. „Tytus, Romek i A’Tomek”, ur. 7 czerwca 1923 roku.
+				twórcy serii komiksu pt. „Tytus, Romek i A'Tomek”, ur. 7 czerwca 1923 roku.
 			</li>
 			<li>Nawiązanie do wspomnień związanych z lekturą komiksu i przygód bohaterów tytułowych.</li>
 			<li>
-				Rozpropagowanie pozycji przeznaczonej dla szerokiego grona czytelników. <br />
+				Rozpropagowanie pozycji przeznaczonej dla szerokiego grona czytelników.<br />
 			</li>
 		</ol>
 		<p>Miejsce akcji: dostępne dla krótkofalowców pasma i emisje.</p>
-		<h2>Czas akcji: 7.06.2015 do dnia 30.06.2015</h2>
+		<h2>Czas akcji: 7.06.2015 do 30.06.2015</h2>
 		<p>
 			Stacje organizatora akcji dyplomowej:<br />
 
-			SQ1KSL - Weronika - <a href="http://www.qrz.com/db/hf1romek">HF1ROMEK</a><br />
-			SQ1KSM - Sławek - <a href="http://www.qrz.com/db/hf1tytus">HF1TYTUS</a><br />
-			SQ1NXN - Adrian - <a href="http://www.qrz.com/db/hf1atomek">HF1ATOMEK</a><br />
-			SP1JJY - Stefan - <a href="http://www.qrz.com/db/hf1papcio">HF1PAPCIO</a><br />
-			SQ1SNU - Mirek - <a href="http://www.qrz.com/db/hf1talent">HF1TALENT</a><br />
-			🕯️ śp. SP3GVX - Marek - <a href="http://www.qrz.com/db/hf3tytus">HF3TYTUS</a><br />
-			SP3WVL - Tomasz - <a href="http://www.qrz.com/db/hf3atomek">HF3ATOMEK</a><br />
-			SP3SBY - Józef - <a href="http://www.qrz.com/db/hf3papcio">HF3PAPCIO</a><br />
-			SQ3ODX - Staszek - <a href="http://www.qrz.com/db/hf3romek">HF3ROMEK</a><br />
-			SQ1GPR - Adam - <a href="http://www.qrz.com/db/hf3talent">HF3TALENT</a><br />
-			SO5MAX - Maciej - <a href="http://www.qrz.com/db/hf5tytus">HF5TYTUS</a><br />
-			SP3PJW - z Krześnicy w związku z organizacją A KIDS DAY w terminie od 18.06.2015 do 25.06.2015r.
-			- <a href="http://www.qrz.com/db/hf0tytus">HF0TYTUS:</a>
+			SQ1KSL – Weronika – <a href="http://www.qrz.com/db/hf1romek">HF1ROMEK</a><br />
+			SQ1KSM – Sławek – <a href="http://www.qrz.com/db/hf1tytus">HF1TYTUS</a><br />
+			SQ1NXN – Adrian – <a href="http://www.qrz.com/db/hf1atomek">HF1ATOMEK</a><br />
+			SP1JJY – Stefan – <a href="http://www.qrz.com/db/hf1papcio">HF1PAPCIO</a><br />
+			SQ1SNU – Mirek – <a href="http://www.qrz.com/db/hf1talent">HF1TALENT</a><br />
+			🕯️ śp. SP3GVX – Marek – <a href="http://www.qrz.com/db/hf3tytus">HF3TYTUS</a><br />
+			SP3WVL – Tomasz – <a href="http://www.qrz.com/db/hf3atomek">HF3ATOMEK</a><br />
+			SP3SBY – Józef – <a href="http://www.qrz.com/db/hf3papcio">HF3PAPCIO</a><br />
+			SQ3ODX – Staszek – <a href="http://www.qrz.com/db/hf3romek">HF3ROMEK</a><br />
+			SQ1GPR – Adam – <a href="http://www.qrz.com/db/hf3talent">HF3TALENT</a><br />
+			SO5MAX – Maciej – <a href="http://www.qrz.com/db/hf5tytus">HF5TYTUS</a><br />
+			SP3PJW – z Krześnicy w związku z organizacją A KIDS DAY w terminie od 18.06.2015 do 25.06.2015
+			r. – <a href="http://www.qrz.com/db/hf0tytus">HF0TYTUS</a>
 		</p>
 
 		<hr />
 		<p>
-			Dyplom bezpłatny wydawany wyłącznie w wersji elektronicznej dostępny dla wszystkich operatorów
-			stacji w formacie PDF po spełnieniu warunków:<br />
-			- stacje polskie - 8 QSO/SWL<br />
-			- stacje zagraniczne - 4 QSO/SWL<br />
-			- stacje DX - 2 QSO/SWL<br />
+			Dyplom bezpłatny, wydawany wyłącznie w wersji elektronicznej, dostępny dla wszystkich
+			operatorów stacji w formacie PDF po spełnieniu warunków:<br />
+			– stacje polskie – 8 QSO/SWL<br />
+			– stacje zagraniczne – 4 QSO/SWL<br />
+			– stacje DX – 2 QSO/SWL<br />
 			Łączności na poszczególnych pasmach można powtarzać innymi rodzajami emisji (CW, Phone, Digi, FM).<br
 			/><br />
-			Zgłoszenia na dyplom przyjmujemy <font color="red">do dnia 15.07.2015 r. </font>Wersje
-			elektroniczną - wyciąg z logu ( najlepiej w formacie Cabrillo ) z podaniem znaku oraz imienia
-			i nazwiska, należy przesłać na
+			Zgłoszenia na dyplom przyjmujemy <font color="red">do dnia 15.07.2015 r.</font> Wersję
+			elektroniczną – wyciąg z logu (najlepiej w formacie Cabrillo) z podaniem znaku oraz imienia i
+			nazwiska należy przesłać na
 			<a href="mailto:tra_log@druc.pl?subject=Tytus Romek i aTomek&amp;body=Proszę o dyplom%9C:%0A"
-				>sent to e-mail address</a
+				>adres e-mail</a
 			>
 			<br />
 		</p>
@@ -167,19 +167,19 @@
 		<h2>Time: from 7.06.2015 to 30.06.2015.</h2>
 		<p>
 			Radio stations of the organizers of the event and diploma:<br />
-			SQ1KSL - Weronika - <a href="http://www.qrz.com/db/hf1romek">HF1ROMEK</a><br />
-			SQ1KSM - Sławek - <a href="http://www.qrz.com/db/hf1tytus">HF1TYTUS</a><br />
-			SQ1NXN - Adrian - <a href="http://www.qrz.com/db/hf1atomek">HF1ATOMEK</a><br />
-			SP1JJY - Stefan - <a href="http://www.qrz.com/db/hf1papcio">HF1PAPCIO</a><br />
-			SQ1SNU - Mirek - <a href="http://www.qrz.com/db/hf1talent">HF1TALENT</a><br />
-			🕯️ śp.SP3GVX - Marek - <a href="http://www.qrz.com/db/hf3tytus">HF3TYTUS</a><br />
-			SP3WVL - Tomasz - <a href="http://www.qrz.com/db/hf3atomek">HF3ATOMEK</a><br />
-			SP3SBY - Józef - <a href="http://www.qrz.com/db/hf3papcio">HF3PAPCIO</a><br />
-			SQ3ODX - Staszek - <a href="http://www.qrz.com/db/hf3romek">HF3ROMEK</a><br />
-			SQ1GPR - Adam - <a href="http://www.qrz.com/db/hf3talent">HF3TALENT</a><br />
-			SO5MAX - Maciej - <a href="http://www.qrz.com/db/hf5tytus">HF5TYTUS</a><br />
+			SQ1KSL – Weronika – <a href="http://www.qrz.com/db/hf1romek">HF1ROMEK</a><br />
+			SQ1KSM – Sławek – <a href="http://www.qrz.com/db/hf1tytus">HF1TYTUS</a><br />
+			SQ1NXN – Adrian – <a href="http://www.qrz.com/db/hf1atomek">HF1ATOMEK</a><br />
+			SP1JJY – Stefan – <a href="http://www.qrz.com/db/hf1papcio">HF1PAPCIO</a><br />
+			SQ1SNU – Mirek – <a href="http://www.qrz.com/db/hf1talent">HF1TALENT</a><br />
+			🕯️ śp. SP3GVX – Marek – <a href="http://www.qrz.com/db/hf3tytus">HF3TYTUS</a><br />
+			SP3WVL – Tomasz – <a href="http://www.qrz.com/db/hf3atomek">HF3ATOMEK</a><br />
+			SP3SBY – Józef – <a href="http://www.qrz.com/db/hf3papcio">HF3PAPCIO</a><br />
+			SQ3ODX – Staszek – <a href="http://www.qrz.com/db/hf3romek">HF3ROMEK</a><br />
+			SQ1GPR – Adam – <a href="http://www.qrz.com/db/hf3talent">HF3TALENT</a><br />
+			SO5MAX – Maciej – <a href="http://www.qrz.com/db/hf5tytus">HF5TYTUS</a><br />
 			SP3PJW will work – because of the engagement in organizing A KIDS DAY – between 18.06.2015 and
-			25.06.2015 as <a href="http://www.qrz.com/db/hf5tytus">HF5TYTUS</a>.
+			25.06.2015 as <a href="http://www.qrz.com/db/hf0tytus">HF0TYTUS</a>.
 		</p>
 		<p lang="en">
 			The diploma is free of charge and issued only in electronic version, available as a PDF file
@@ -191,7 +191,7 @@
 		</p>
 		<p lang="en">
 			We are accepting applications for the diploma until 15.07.2015. Electronic version of a log
-			excerpt (cabrillo format recommended) with the callsign, first and last name should be
+			excerpt (Cabrillo format recommended) with the callsign, first and last name should be
 			<a href="mailto:tra_log@druc.pl?subject=Tytus Romek i aTomek&amp;body=Proszę o dyplom%9C:%0A"
 				>sent to e-mail address</a
 			>
@@ -216,9 +216,9 @@
 			style="margin:0px 0px 10px 10px"
 		/><br />
 		<h2>Obrazki są autorstwa Henryka Chmielewskiego, jedynie dymki zmienione.</h2>
-		<div class="podpis">Sławek SQ1KSM (Kwiecień 2015r.)</div>
+		<div class="podpis">Sławek SQ1KSM (kwiecień 2015 r.)</div>
 		<hr />
-		<h1>Kilka słów o Autorze książki "Tytus Romek i A'Tomek".</h1>
+		<h1>Kilka słów o autorze książki „Tytus, Romek i A'Tomek”.</h1>
 		<br />
 		<img
 			width="170"
@@ -230,14 +230,14 @@
 		/>
 		<p>
 			Henryk Jerzy Chmielewski, ps. Jupiter (pseudonim powstańczy), po wojnie znany głównie jako
-			Papcio Chmiel urodził się 7 czerwca 1923 w miejscowości Warszawa. Polski grafik, rysownik i
-			publicysta, uczestnik powstania warszawskiego - odznaczony Warszawskim Krzyżem Powstańczym, po
+			Papcio Chmiel, urodził się 7 czerwca 1923 w miejscowości Warszawa. Polski grafik, rysownik i
+			publicysta, uczestnik powstania warszawskiego – odznaczony Warszawskim Krzyżem Powstańczym, po
 			wojnie artylerzysta w Wojsku Polskim. Jest również kawalerem Orderu Uśmiechu.
 		</p>
 		<p>
-			Jako grafik realizował sie na początku w wojsku, później w "Świecie Przygód", "Świecie
-			Młodych". Najbardziej znany jako rysownik kultowego komiksu "Tytus Romek i A'Tomek" (nakład
-			łączny 11 milionów sztuk!). Początkowo drukowany w gazecie "Świat Młodych" od 25 października
+			Jako grafik realizował się na początku w wojsku, później w „Świecie Przygód”, „Świecie
+			Młodych”. Najbardziej znany jako rysownik kultowego komiksu „Tytus, Romek i A'Tomek” (nakład
+			łączny 11 milionów sztuk!). Początkowo drukowany w gazecie „Świat Młodych” od 25 października
 			1957 roku, a w 1966 w formie książki.
 		</p>
 		<p>Główni bohaterowie:</p>
@@ -253,11 +253,11 @@
 				uczłowieczenie Tytusa.
 			</li>
 			<li>
-				A'Tomek– harcerz zastępowy, niski, gruby, inteligentny, zarozumiały, o zdolnościach
+				A'Tomek – harcerz zastępowy, niski, gruby, inteligentny, zarozumiały, o zdolnościach
 				przywódczych. Jego hobby to układanie krótkich wierszyków. Głównodowodzący trójki.
 			</li>
 			<li>
-				Prof. T.Alent – (czasem nazwany po prostu „Talent”) ekscentryczny naukowiec wynalazca,
+				Prof. T.Alent – (czasem nazwany po prostu „Talent”) ekscentryczny naukowiec, wynalazca,
 				twórca i założyciel Instytutu Wszechzbytków, gdzie powstają fantastyczne pojazdy i inne
 				wynalazki dla Tytusa, Romka i A'Tomka. Ma sporo myszek, na których testuje swoje
 				eksperymenty. Często bawią się w jego włosach lub chodzą po nim.
@@ -275,7 +275,7 @@
 		<br />
 		<h2>
 			Wszystkim biorącym udział w akcji i obserwatorom serdecznie dziękujemy za liczne QSO, miłe
-			przyjęcie i wiele cieplych słów.
+			przyjęcie i wiele ciepłych słów.
 		</h2>
 	</article>
 </div>

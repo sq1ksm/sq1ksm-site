@@ -14,18 +14,18 @@
 			rolnictwa był bezużyteczny. Na zlecenie Fryderyka II Wielkiego opracowano plany uregulowania
 			biegu rzeki Warty i jej odgałęzień w rejonie Słońska, Krzeszyc i Lemierzyc. Prace były
 			prowadzone do 1785 r. Legenda głosi, że kiedy wykonawcy przyszli do Fryderyka, żeby zgodnie z
-			wcześniejszą umową umożliwił im wyjazd do Ameryki, ten odpowiedział: „Ja Wam Nową Amerykę i
+			wcześniejszą umową umożliwił im wyjazd do Ameryki, ten odpowiedział: „Ja wam Nową Amerykę i
 			wolność dam nad Wartą”. Był to okres masowych wyjazdów do Ameryki za chlebem. Aby chłopom
 			obszar ten kojarzył się z Ameryką, nowo powstającym miejscowościom nadawano egzotycznie
-			brzmiące nazwy. I tak dzisiejsze Polne to była kiedyś Pensylwania, Ledargowo - Yorkstown,
-			Jamno - Jamajka, Marianki - Maryland, Czaplin - Ceylon, Budzigniew - Hampshire, Żabczyn - New
-			Ameryka, Sadowiec - Florida, Przemysław - Luisa, Koszęcin - Filadelfia, Sumiec - Sumatra,
-			Kosarzewo - Korsyka, Kuczno - Annapolis, Zaszczytowo - Saratoga, Krępiny - Nowe Drezno i wiele
+			brzmiące nazwy. I tak dzisiejsze Polne to była kiedyś Pensylwania, Ledargowo – Yorkstown,
+			Jamno – Jamajka, Marianki – Maryland, Czaplin – Ceylon, Budzigniew – Hampshire, Żabczyn – New
+			Ameryka, Sadowiec – Florida, Przemysław – Louisa, Koszęcin – Filadelfia, Sumiec – Sumatra,
+			Kosarzewo – Korsyka, Kuczno – Annapolis, Zaszczytowo – Saratoga, Krępiny – Nowe Drezno i wiele
 			innych.
 		</p>
 		<p>
 			Nazwy te obowiązywały do 1945 roku. Po wojnie Komisja Nazewnictwa zmieniła nazwy na polskie.
-			Jedynie Malta została Maltą. Po wielu tych miejscowościach do dzisiaj przetrwały tylko ruiny.
+			Jedynie Malta została Maltą. Po wielu z tych miejscowości do dzisiaj przetrwały tylko ruiny.
 		</p>
 		<div style="text-align: center;">
 			<img
@@ -46,7 +46,7 @@
 
 		<h2>Zdjęcia z pierwszej wyprawy w 2010 roku</h2>
 		<hr />
-		<h1>Wyprawa do Nowej Ameryki 2010 - relacja</h1>
+		<h1>Wyprawa do Nowej Ameryki 2010 – relacja</h1>
 		<p>
 			W dniu 23.10.2010 z samego rana wyruszyliśmy na „dzikie” tereny Nowej Ameryki, na których
 			jeszcze nie wisiała żadna antena KF (no, przynajmniej my nic o tym nie wiemy, hi, hi). Na

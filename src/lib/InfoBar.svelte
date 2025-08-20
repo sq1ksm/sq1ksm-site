@@ -1,7 +1,7 @@
 <article>
 	<b> Informacje:</b>
 	<hr />
-	15.07.2025<br />
+	20.08.2025<br />
 	Atlas 210X -instrukcja<br />
 	(menu - Inne)
 	<hr />

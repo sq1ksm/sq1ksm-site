@@ -15,19 +15,20 @@
 		</a>
 		<p>
 			Marzec 2023<br /><br />
-			Do pobrania polskie tłumaczenie instrukcji świetnej skrzynki antenowej QRP – T1 firmy Elecraft.<br
-			/>
-			Pozwoliłem sobie przetłumaczyć instrukcję z języka angielskiego na polski, aby w pełni i wygodnie
-			korzystać ze wszystkich funkcji skrzynki antenowej.<br />
-			Plik:<br />
-			t1_elecraft_pl.pdf, Adobe Acrobat Document, 382,1 kB
-			<br /><br /><br /><br /><br /><br /><br />
+			Do pobrania: polskie tłumaczenie instrukcji obsługi świetnej skrzynki antenowej QRP – T1 firmy
+			Elecraft.<br />
+			Pozwoliłem sobie przetłumaczyć instrukcję z języka angielskiego na polski, aby można było w pełni
+			i wygodnie korzystać ze wszystkich funkcji skrzynki antenowej.<br /><br />
+			Plik: <strong>t1_elecraft_pl.pdf</strong><br />
+			Typ: Adobe Acrobat Document<br />
+			Rozmiar: 382,1 kB
+			<br /><br /><br /><br /><br />
 		</p>
 		<hr />
 	</article>
 	<article>
 		<h2>Instrukcja obsługi TRX Atlas 210x</h2>
-		<a href="/zdjecia/inne/Atlas210X_PL_25.pdf">
+		<a href="/zdjecia/inne/atlas210x_pl_v09.pdf">
 			<img
 				height="185"
 				width="202"
@@ -38,16 +39,16 @@
 			/>
 		</a>
 		<p>
-			Lipiec 2025<br /><br />
-			Do pobrania przetłumaczona na język polski instrukcja obsługi TRX Atlas 210x.<br />
-			Na razie dostępna jest wersja testowa v25 z 30 lipca 2025 <br />– tłumaczenie jeszcze jest w
-			toku.
-			<br /><br />
-			Wymaga poprawek: tabelki i tekst w końcowej części, graficzne ułożenie...<br />
-			Jednak śmiało można już używać! Atlas210X_PL_25.pdf, <br />
-			Adobe Acrobat Document, ok. 10 MB
+			Sierpień 2025<br /><br />
+			Do pobrania: przetłumaczona na język polski instrukcja obsługi TRX Atlas 210x.<br />
+			Obecnie dostępna jest przedfinałowa wersja 0.9 z 20 sierpnia 2025 — tłumaczenie nadal trwa.<br
+			/><br />
+			Wymaga jeszcze poprawek: tekst w końcowej części, graficzne ułożenie...<br />
+			Jednak można już śmiało z niej korzystać!<br /><br />
+			Plik: <strong>atlas210x_pl_v09.pdf</strong><br />
+			Typ: Adobe Acrobat Document<br />
+			Rozmiar: ok. 2 MB
 		</p>
-		<br />
 		<hr />
 	</article>
 	<article>
@@ -64,11 +65,14 @@
 		</a>
 		<p>
 			Lipiec 2024<br /><br />
-			Do pobrania przetłumaczona instrukcja obsługi przenośnego radia Sokół produkcji CCCP.<br />
-			Jak napisano w p.3: „Przed włączeniem odbiornika przeczytaj uważnie niniejszą instrukcję obsługi.”
-			Hi, hi.<br />
-			Rosyjski nie jest językiem znanym wszystkim, więc pojawiła się potrzeba przetłumaczenia.<br />
-			sokol_pl.pdf, Adobe Acrobat Document, ok. 1,2 MB
+			Do pobrania: przetłumaczona instrukcja obsługi przenośnego radia Sokół, produkcji CCCP.<br />
+			Jak napisano w punkcie 3: „Przed włączeniem odbiornika przeczytaj uważnie niniejszą instrukcję
+			obsługi.” Hi, hi 😄<br />
+			Rosyjski nie jest językiem znanym wszystkim, więc pojawiła się potrzeba tłumaczenia.<br /><br
+			/>
+			Plik: <strong>sokol_pl.pdf</strong><br />
+			Typ: Adobe Acrobat Document<br />
+			Rozmiar: ok. 1,2 MB
 		</p>
 		<hr />
 	</article>

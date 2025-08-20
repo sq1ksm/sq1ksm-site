@@ -35,15 +35,15 @@
 		<div class="podpis">Sławek SQ1KSM (21.03.2019)</div>
 
 		<p>
-			ES'HAIL 2 to satelita komunikacyjny obsługiwany przez Es'hailSat, Qatar Satellite Company.
-			Es'hail-2 posiada dwa amatorskie transpondery radiowe „Faza 4” działające w pasmach 2400 MHz i
-			10450 MHz. Transponder liniowy o szerokości pasma 250 kHz przeznaczony do konwencjonalnych
-			operacji analogowych oraz transponder o szerokości pasma 8 MHz do eksperymentalnych schematów
-			modulacji cyfrowej i amatorskiej telewizji DVB.
+			ES'HAIL 2 to satelita komunikacyjny obsługiwany przez Es'hailSat – Qatar Satellite Company.
+			Es'hail-2 posiada dwa amatorskie transpondery radiowe „Faza 4”, działające w pasmach 2400 MHz
+			i 10450 MHz. Transponder liniowy o szerokości pasma 250 kHz przeznaczony jest do
+			konwencjonalnych operacji analogowych, natomiast transponder o szerokości pasma 8 MHz służy do
+			eksperymentalnych schematów modulacji cyfrowej oraz amatorskiej telewizji DVB.
 		</p>
 		<p>
-			Satelita jest umieszczony na pozycji hotspotu 26°E w celu nadawania programów telewizyjnych i
-			znacznie zwiększa zdolność firmy do dostarczania wysokiej jakości treści telewizyjnych DTH
+			Satelita został umieszczony na pozycji hotspotu 26°E w celu nadawania programów telewizyjnych.
+			Znacznie zwiększa zdolność firmy do dostarczania wysokiej jakości treści telewizyjnych DTH
 			premium na Bliskim Wschodzie i w Afryce Północnej.
 		</p>
 	</article>

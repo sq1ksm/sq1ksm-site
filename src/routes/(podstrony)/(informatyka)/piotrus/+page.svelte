@@ -1,19 +1,19 @@
 <div class="lead">
-	<!-- tresc-->
+	<!-- treść-->
 	<article>
 		<h1>Prace mojego nastoletniego syna.</h1>
 		<p>
 			Poniżej przedstawiam pierwszy samodzielnie napisany program mojego syna.<br />
-			Napisał go jak miał 9 lat w WB. Dopisał mnie tylko z grzeczności - kodował sam.<br />
+			Napisał go, gdy miał 9 lat w WB. Dopisał mnie tylko z grzeczności – kodował sam.<br />
 			Zachęcam do zagrania w jego grę.
 		</p>
 		<br /><br />
 		<a href="/zdjecia/piotrus/GameTor 1.1.7.zip">
 			<img src="/zdjecia/piotrus/GameTor.webp" alt="Program Piotra" /></a
 		>
-		<h2>(By pobrać kliknij proszę w obrazek)</h2>
-		Teraz (w 2024) kończy szkołę średnią - jest informatykiem programistą, jest laureatem kilku olimpiad
-		i konkursów. :)
+		<h2>(By pobrać, kliknij proszę w obrazek)</h2>
+		Teraz (w 2025) skończył szkołę średnią – jest informatykiem-programistą, laureatem kilku olimpiad
+		i konkursów, i studiuje na AGH cyberbezpieczeństwo. :)
 		<br />
 		<img
 			src="https://avatars.githubusercontent.com/u/50967056?v=4"

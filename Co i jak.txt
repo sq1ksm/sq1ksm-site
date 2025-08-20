@@ -1,3 +1,11 @@
+D:
+
+cd www\sq1ksm-site
+
+lub:
+
+cd /d D:\www\sq1ksm-site
+
 BUILD.cmd uruchamia budowanie strony
 
 

@@ -1,18 +1,18 @@
 <div class="lead">
-	<!-- tresc-->
+	<!-- treść-->
 	<article>
-		<!-- Tytol-->
+		<!-- Tytuł-->
 		<h1>Webmastering</h1>
 		<p>
 			Projektowaniem stron zajmuję się od 2000 roku. Wszystkie moje projekty są realizowane
-			indywidualnie i w większości non profit. Nie jest to moja praca zawodowa, a hobby. Dla tego
-			mogę sobie pozwolić na długie i skrupulatne "dłubanie w kodzie", przez co strony są
-			niepowtarzalne. <br />
-			Potrzebujesz mojej pomocy, chciałbyś jakąś wyjątkową stronę skontaktuj się ze mną.<br />
+			indywidualnie i w większości non profit. Nie jest to moja praca zawodowa, a hobby. Dlatego
+			mogę sobie pozwolić na długie i skrupulatne „dłubanie w kodzie”, przez co strony są
+			niepowtarzalne.<br />
+			Potrzebujesz mojej pomocy, chciałbyś jakąś wyjątkową stronę – skontaktuj się ze mną.<br />
 		</p>
 		<h2>Przykładowe strony, które zbudowałem:</h2>
 		<p>
-			Strona dwujęzyczna ogrodzenia metalowe<br />
+			Strona dwujęzyczna – ogrodzenia metalowe<br />
 			<img
 				height="329"
 				width="456"
@@ -23,10 +23,10 @@
 		</p>
 		<hr />
 		<br />
-		Strona klubu <a href="https://sp1kze.pzk.org.pl/"><span>SP1KZE</span></a>pozniżej i strony
+		Strona klubu <a href="https://sp1kze.pzk.org.pl/"><span>SP1KZE</span></a> poniżej i strony
 		klubów <a href="https://sp1pmy.pzk.org.pl/"><span>SP1PMY</span></a> /
 		<a href="https://sp1pnw.pzk.org.pl/"><span>SP1PNW</span></a>
-		na tym samym moim autorskim "silniku". <br /><br />
+		na tym samym moim autorskim „silniku”.<br /><br />
 		<img
 			height="319"
 			width="456"
@@ -36,17 +36,17 @@
 		/><br />
 		<hr />
 		<br />
-		Gabinet Psychologiczny i psychoterapeutyczny <br /><br />
+		Gabinet psychologiczny i psychoterapeutyczny<br /><br />
 		<img
 			height="348"
 			width="456"
 			src="/zdjecia/webmastering/gabinetaz.webp"
-			alt="Strona  Gabinet Psychologiczny i psychoterapeutyczny"
-			title="Strona  Gabinet Psychologiczny i psychoterapeutyczny"
+			alt="Strona Gabinet psychologiczny i psychoterapeutyczny"
+			title="Strona Gabinet psychologiczny i psychoterapeutyczny"
 		/><br />
 		<hr />
 		<br />
-		EX strona klubu SP1PNW <br />
+		EX strona klubu SP1PNW<br />
 		<img
 			height="283"
 			width="456"
@@ -57,7 +57,7 @@
 		<p></p>
 		<p></p>
 		<div class="podpis">
-			Sławek SQ1KSM (slawera - 2015r.)
+			Sławek SQ1KSM (slawera – 2015 r.)
 			<p></p>
 		</div>
 	</article>

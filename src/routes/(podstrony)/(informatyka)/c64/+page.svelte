@@ -1,5 +1,5 @@
 <div class="lead">
-	<!-- tresc-->
+	<!-- treść-->
 	<article>
 		<h1>Moje stare komputery</h1>
 		<p>
@@ -12,7 +12,7 @@
 				><img
 					height="260"
 					src="/zdjecia/c64/c64_m.webp"
-					alt=" zdjęcie"
+					alt="Zdjęcie"
 					title="C64"
 					style="margin:10px 0px 0px 10px;"
 				/></a
